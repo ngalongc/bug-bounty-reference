@@ -29,7 +29,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 ### Cross-Site Scripting (XSS)
 
 - [Sleeping stored Google XSS Awakens a $5000 Bounty](https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/) by Patrik Fehrenbach
-- [RPO that lead to information leakage in Google by filedescriptor](http://blog.innerht.ml/rpo-gadgets/)
+- [RPO that lead to information leakage in Google](http://blog.innerht.ml/rpo-gadgets/) by filedescriptor
 - [God-like XSS, Log-in, Log-out, Log-in](https://whitton.io/articles/uber-turning-self-xss-into-good-xss/) in Uber by Jack Whitton 
 - [Three Stored XSS in Facebook](http://www.breaksec.com/?p=6129) by Nirgoldshlager 
 - [Using a Braun Shaver to Bypass XSS Audit and WAF](https://blog.bugcrowd.com/guest-blog-using-a-braun-shaver-to-bypass-xss-audit-and-waf-by-frans-rosen-detectify) by Frans Rosen  
@@ -42,7 +42,6 @@ My intention is to make a full and complete list of common vulnerability that ar
 ### SQL Injection
 - [SQL injection in Wordpress Plugin Huge IT Video Gallery in Uber](https://hackerone.com/reports/125932) by glc
 - [SQL Injection on sctrack.email.uber.com.cn](https://hackerone.com/reports/150156) by Orange Tsai
-- 
 
 ### Stealing Access Token
 - [Facebook Access Token Stolen](https://whitton.io/articles/stealing-facebook-access-tokens-with-a-double-submit/) by Jack Whitton - 
