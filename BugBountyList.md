@@ -68,6 +68,8 @@ My intention is to make a full and complete list of common vulnerability that ar
   -  *Image Tragick*
     - [Exploiting ImageMagick to get RCE on Polyvore (Yahoo Acquisition)](http://nahamsec.com/exploiting-imagemagick-on-yahoo/) by NaHamSec
     - [Exploting ImageMagick to get RCE on HackerOne](https://hackerone.com/reports/135072) by c666a323be94d57
+- [How we broke PHP, hacked Pornhub and earned $20,000](https://www.evonide.com/how-we-broke-php-hacked-pornhub-and-earned-20000-dollar/) by Ruslan Habalov
+  - *Alert*, God-like Write-up, make sure you know what is ROP before clicking, which I don't =(
   
 ### Business Logic Flaw
 - [Microsoft-careers.com Remote Password Reset](http://yasserali.com/microsoft-careers-com-remote-password-reset/) by Yaaser Ali
