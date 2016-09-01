@@ -8,14 +8,20 @@ My intention is to make a full and complete list of common vulnerability that ar
 
 
 - Cross-Site Scripting (XSS)
-- Relative Path Overwrite (RPO)
+  - Relative Path Overwrite (RPO)
 - Brute Force 
 - SQL Injection (SQLi)
 - External XML Entity Attack (XXE)
-- Remote Code Execution (RCE) - Java Deserialization, Image Tragick, BufferOverflow
+- Remote Code Execution (RCE)
+  - Java Deserialization
+  - Image Tragick
+  - BufferOverflow
 - Cross-Site Request Forgery (CSRF)
-- Insecure Direct Object Reference (IDOR) - User Information Disclosure, Unauthorized Action
-- Oauth Bypass Redirect - Google Oauth 
+- Insecure Direct Object Reference (IDOR)
+  - User Information Disclosure
+  - Unauthorized Action
+- Oauth Bypass Redirect 
+  - Google Oauth 
 - Server Side Request Forgery (SSRF)
 - Unrestricted File Upload
 - Business Logic Flaw
@@ -33,9 +39,15 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Complicated, Best Report of Google XSS](https://sites.google.com/site/bughunteruniversity/best-reports/account-recovery-xss) by Ramzes
 - [Command Injection in Google Console](http://www.pranav-venkat.com/2016/03/command-injection-which-got-me-6000.html) by Venkat S
 
+### SQL Injection
+- [SQL injection in Wordpress Plugin Huge IT Video Gallery in Uber](https://hackerone.com/reports/125932) by glc
+- [SQL Injection on sctrack.email.uber.com.cn](https://hackerone.com/reports/150156) by Orange Tsai
+- 
+
 ### Stealing Access Token
 - [Facebook Access Token Stolen](https://whitton.io/articles/stealing-facebook-access-tokens-with-a-double-submit/) by Jack Whitton - 
 - [Obtaining Login Tokens for an Outlook, Office or Azure Account](https://whitton.io/articles/obtaining-tokens-outlook-office-azure-account/) by Jack Whitton 
+- [Stored XSS in Google Docs (Bug Bounty)](http://hmgmakarovich.blogspot.hk/2015/11/stored-xss-in-google-docs-bug-bounty.html) by Harry M Gertos
 
 ### CSRF
 - [Messenger.com CSRF that show you the steps when you check for CSRF](https://whitton.io/articles/messenger-site-wide-csrf/) by Jack Whitton 
@@ -51,6 +63,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Instagram's Million Dollar Bug](http://www.exfiltrated.com/research-Instagram-RCE.php) by Wesley Wineberg
 - [How I Hacked Facebook, and Found Someone's Backdoor Script](http://devco.re/blog/2016/04/21/how-I-hacked-facebook-and-found-someones-backdoor-script-eng-ver/) by Orange Tsai
 - [uber.com may RCE by Flask Jinja2 Template Injection](https://hackerone.com/reports/125980) by Orage Tsai
+- [Yahoo Bug Bounty - *.login.yahoo.com Remote Code Execution](http://blog.orange.tw/2013/11/yahoo-bug-bounty-part-2-loginyahoocom.html) by Orange Tsai (Sorry its in Chinese Only)
   -  *Java Deserialization*
     - [Java Deserialization in manager.paypal.com](http://artsploit.blogspot.hk/2016/01/paypal-rce.html) by Michael Stepankin
   -  *Image Tragick*
