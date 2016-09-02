@@ -8,8 +8,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 
 
 - [Cross-Site Scripting (XSS)](https://github.com/ngalongc/bug-bounty-reference#cross-site-scripting-xss)
-  - [Relative Path Overwrite (RPO)]()
-- Brute Force 
+- [Brute Force](https://github.com/ngalongc/bug-bounty-reference/blob/master/README.md#brute-force)
 - [SQL Injection (SQLi)](https://github.com/ngalongc/bug-bounty-reference#sql-injection)
 - [External XML Entity Attack (XXE)](https://github.com/ngalongc/bug-bounty-reference#xxe)
 - [Remote Code Execution (RCE)](https://github.com/ngalongc/bug-bounty-reference#remote-code-execution)
