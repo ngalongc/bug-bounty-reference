@@ -18,10 +18,9 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Cross-Site Request Forgery (CSRF)](https://github.com/ngalongc/bug-bounty-reference#csrf)
 - [Insecure Direct Object Reference (IDOR)](https://github.com/ngalongc/bug-bounty-reference#insecure-direct-object-reference-idor)
 - [Stealing Access Token](https://github.com/ngalongc/bug-bounty-reference#stealing-access-token)
-  - Google Oauth Login Bypass 
+  - [Google Oauth Login Bypass](https://github.com/ngalongc/bug-bounty-reference#google-oauth-bypass)
 - [Server Side Request Forgery (SSRF)](https://github.com/ngalongc/bug-bounty-reference#server-side-request-forgery-ssrf)
 - [Unrestricted File Upload](https://github.com/ngalongc/bug-bounty-reference#unrestricted-file-upload)
-- Business Logic Flaw
 - [Race Condition](https://github.com/ngalongc/bug-bounty-reference#race-condition)
 
 ### Cross-Site Scripting (XSS)
@@ -80,11 +79,6 @@ My intention is to make a full and complete list of common vulnerability that ar
   - [Exploiting ImageMagick to get RCE on Polyvore (Yahoo Acquisition)](http://nahamsec.com/exploiting-imagemagick-on-yahoo/) by NaHamSec
   - [Exploting ImageMagick to get RCE on HackerOne](https://hackerone.com/reports/135072) by c666a323be94d57
 
-### Business Logic Flaw
-- [Microsoft-careers.com Remote Password Reset](http://yasserali.com/microsoft-careers-com-remote-password-reset/) by Yaaser Ali
-- [How I could change your eBay password](http://yasserali.com/how-i-could-change-your-ebay-password/) by Yaaser Ali
-- [Duo Security Researchers Uncover Bypass of PayPal’s Two-Factor Authentication](https://duo.com/blog/duo-security-researchers-uncover-bypass-of-paypal-s-two-factor-authentication) by Duo Labs
-
 ### Insecure Direct Object Reference (IDOR)
 - [Trello bug bounty: The websocket receives data when a public company creates a team visible board](https://hethical.io/trello-bug-bounty-the-websocket-receives-data-when-a-public-company-creates-a-team-visible-board/) by Florian Courtial 
 - [Trello bug bounty: Payments informations are sent to the webhook when a team changes its visibility](https://hethical.io/trello-bug-bounty-payments-informations-are-sent-to-the-webhook-when-a-team-changes-its-visibility/) by Florian Courtial
@@ -93,6 +87,9 @@ My intention is to make a full and complete list of common vulnerability that ar
   - It's *Google* Vulnerability, so it's worth reading, as generally it is more difficult to find Google vulnerability
 - [Twitter Vulnerability Could Delete Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerability/) by secgeek
 - [One Vulnerability allowed deleting comments of any user in all Yahoo sites](https://www.secgeek.net/yahoo-comments-vulnerability/) by secgeek
+- [Microsoft-careers.com Remote Password Reset](http://yasserali.com/microsoft-careers-com-remote-password-reset/) by Yaaser Ali
+- [How I could change your eBay password](http://yasserali.com/how-i-could-change-your-ebay-password/) by Yaaser Ali
+- [Duo Security Researchers Uncover Bypass of PayPal’s Two-Factor Authentication](https://duo.com/blog/duo-security-researchers-uncover-bypass-of-paypal-s-two-factor-authentication) by Duo Labs
 
 ### XXE
 - [How we got read access on Google’s production servers](https://blog.detectify.com/2014/04/11/how-we-got-read-access-on-googles-production-servers/) by  detectify
