@@ -11,21 +11,18 @@ My intention is to make a full and complete list of common vulnerability that ar
   - [Relative Path Overwrite (RPO)]()
 - Brute Force 
 - [SQL Injection (SQLi)](https://github.com/ngalongc/bug-bounty-reference#sql-injection)
-- External XML Entity Attack (XXE)
-- Remote Code Execution (RCE)
-  - Java Deserialization
-  - Image Tragick
-  - BufferOverflow
+- [External XML Entity Attack (XXE)](https://github.com/ngalongc/bug-bounty-reference#xxe)
+- [Remote Code Execution (RCE)](https://github.com/ngalongc/bug-bounty-reference#remote-code-execution)
+  - [Deserialization](https://github.com/ngalongc/bug-bounty-reference#deserialization)
+  - [Image Tragick](https://github.com/ngalongc/bug-bounty-reference#image-tragick)
 - [Cross-Site Request Forgery (CSRF)](https://github.com/ngalongc/bug-bounty-reference#csrf)
-- Insecure Direct Object Reference (IDOR)
-  - User Information Disclosure
-  - Unauthorized Action
+- [Insecure Direct Object Reference (IDOR)](https://github.com/ngalongc/bug-bounty-reference#insecure-direct-object-reference-idor)
 - [Stealing Access Token](https://github.com/ngalongc/bug-bounty-reference#stealing-access-token)
   - Google Oauth Login Bypass 
-- Server Side Request Forgery (SSRF)
-- Unrestricted File Upload
+- [Server Side Request Forgery (SSRF)](https://github.com/ngalongc/bug-bounty-reference#server-side-request-forgery-ssrf)
+- [Unrestricted File Upload](https://github.com/ngalongc/bug-bounty-reference#unrestricted-file-upload)
 - Business Logic Flaw
-- Race Condition
+- [Race Condition](https://github.com/ngalongc/bug-bounty-reference#race-condition)
 
 ### Cross-Site Scripting (XSS)
 
@@ -64,9 +61,6 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Paypal bug bounty: Updating the Paypal.me profile picture without consent (CSRF attack)](https://hethical.io/paypal-bug-bounty-updating-the-paypal-me-profile-picture-without-consent-csrf-attack/) by Florian Courtial
 - [Hacking PayPal Accounts with one click (Patched)](http://yasserali.com/hacking-paypal-accounts-with-one-click/) by Yasser Ali
 - [Add tweet to collection CSRF](https://hackerone.com/reports/100820) by vijay kumar
-
-### Oauth Redirect Bypass 
-
 
 ### Remote Code Execution
 - [JDWP Remote Code Execution in PayPal](https://www.vulnerability-lab.com/get_content.php?id=1474) by Milan A Solanki
