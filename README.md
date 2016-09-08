@@ -40,6 +40,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Facebook's Moves - OAuth XSS](http://www.paulosyibelo.com/2015/12/facebooks-moves-oauth-xss.html) by PAULOS YIBELO
 - [Stored XSS in Google Docs (Bug Bounty)](http://hmgmakarovich.blogspot.hk/2015/11/stored-xss-in-google-docs-bug-bounty.html) by Harry M Gertos
 - [Stored XSS on developer.uber.com via admin account compromise in Uber](https://hackerone.com/reports/152067) by James Kettle (albinowax)
+- [Yahoo Mail stored XSS](https://klikki.fi/adv/yahoo.html) by Klikki Oy
 
 
 ### Brute Force
