@@ -49,6 +49,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Possibility to brute force invite codes in riders.uber.com](https://hackerone.com/reports/125505) by r0t
 - [Brute-Forcing invite codes in partners.uber.com](https://hackerone.com/reports/144616) by Efkan Gökbaş (mefkan)
 - [How I could have hacked all Facebook accounts](http://www.anandpraka.sh/2016/03/how-i-could-have-hacked-your-facebook.html) by Anand Prakash
+- [Facebook Account Take Over by using SMS verification code](http://arunsureshkumar.me/index.php/2016/04/24/facebook-account-take-over/) by Arun Sureshkumar
 
 ### SQL Injection
 - [SQL injection in Wordpress Plugin Huge IT Video Gallery in Uber](https://hackerone.com/reports/125932) by glc
@@ -74,6 +75,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Paypal bug bounty: Updating the Paypal.me profile picture without consent (CSRF attack)](https://hethical.io/paypal-bug-bounty-updating-the-paypal-me-profile-picture-without-consent-csrf-attack/) by Florian Courtial
 - [Hacking PayPal Accounts with one click (Patched)](http://yasserali.com/hacking-paypal-accounts-with-one-click/) by Yasser Ali
 - [Add tweet to collection CSRF](https://hackerone.com/reports/100820) by vijay kumar
+- [Facebookmarketingdevelopers.com: Proxies, CSRF Quandry and API Fun](http://philippeharewood.com/facebookmarketingdevelopers-com-proxies-csrf-quandry-and-api-fun/) by phwd
 
 ### Remote Code Execution
 - [JDWP Remote Code Execution in PayPal](https://www.vulnerability-lab.com/get_content.php?id=1474) by Milan A Solanki
@@ -113,6 +115,9 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Urgent: attacker can access every data source on Bime](https://hackerone.com/reports/149907) by Jobert Abma (jobert)
 - [Downloading password protected / restricted videos on Vimeo](https://hackerone.com/reports/145467) by Gazza (gazza)
 - [Get organization info base on uuid in Uber](https://hackerone.com/reports/151465) by Severus (severus)
+- [How I Exposed your Primary Facebook Email Address (Bug worth $4500)](http://roy-castillo.blogspot.hk/2013/07/how-i-exposed-your-primary-facebook.html) by Roy Castillo
+- [DOB disclosed using “Facebook Graph API Reverse Engineering”](https://medium.com/@rajsek/my-3rd-facebook-bounty-hat-trick-chennai-tcs-er-name-listed-in-facebook-hall-of-fame-47f57f2a4f71#.9gbtbv42q) by Raja Sekar Durairaj
+- [Change the description of a video without publish_actions permission in Facebook](http://philippeharewood.com/change-the-description-of-a-video-without-publish_actions-permission/) by phwd
 
 
 ### XXE
@@ -135,6 +140,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Facebook simple technical hack to see the timeline](http://ashishpadelkar.com/index.php/2015/09/23/facebook-simple-technical-bug-worth-7500/) by Ashish Padelkar
 - [How I Could Steal Money from Instagram, Google and Microsoft](https://www.arneswinnen.net/2016/07/how-i-could-steal-money-from-instagram-google-and-microsoft/) by Arne Swinnen
 - [How I could have removed all your Facebook notes](http://www.anandpraka.sh/2015/12/summary-this-blog-post-is-about.html)
+- [Facebook - bypass ads account's roles vulnerability 2015](http://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html) by POUYA DARABI
 
 ### Authentication Bypass
 - [OneLogin authentication bypass on WordPress sites via XMLRPC in Uber](https://hackerone.com/reports/138869) by Jouko Pynnönen (jouko)
