@@ -41,6 +41,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Stored XSS in Google Docs (Bug Bounty)](http://hmgmakarovich.blogspot.hk/2015/11/stored-xss-in-google-docs-bug-bounty.html) by Harry M Gertos
 - [Stored XSS on developer.uber.com via admin account compromise in Uber](https://hackerone.com/reports/152067) by James Kettle (albinowax)
 - [Yahoo Mail stored XSS](https://klikki.fi/adv/yahoo.html) by Klikki Oy
+- [Abusing XSS Filter: One ^ leads to XSS(CVE-2016-3212)](http://mksben.l0.cm/2016/07/xxn-caret.html) by Masato Kinugawa
 
 
 ### Brute Force
