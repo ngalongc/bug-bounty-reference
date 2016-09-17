@@ -23,6 +23,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Race Condition](https://github.com/ngalongc/bug-bounty-reference#race-condition)
 - [Business Logic Flaw](https://github.com/ngalongc/bug-bounty-reference#race-condition#business-logic-flaw)
 - [Authentication Bypass](https://github.com/ngalongc/bug-bounty-reference#race-condition#business-logic-flaw#authentication-bypass)
+- [HTTP Header Injection]
 
 ### Cross-Site Scripting (XSS)
 
@@ -146,3 +147,6 @@ My intention is to make a full and complete list of common vulnerability that ar
 
 ### Authentication Bypass
 - [OneLogin authentication bypass on WordPress sites via XMLRPC in Uber](https://hackerone.com/reports/138869) by Jouko Pynnönen (jouko)
+
+### HTTP Header Injection
+- [Overflow Trilogy in Twitter](https://blog.innerht.ml/overflow-trilogy/) by filedescriptor
