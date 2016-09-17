@@ -149,5 +149,6 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [OneLogin authentication bypass on WordPress sites via XMLRPC in Uber](https://hackerone.com/reports/138869) by Jouko Pynnönen (jouko)
 
 ### HTTP Header Injection
-- [Overflow Trilogy in Twitter](https://blog.innerht.ml/overflow-trilogy/) by filedescriptor
-- [https://blog.innerht.ml/twitter-crlf-injection/](https://blog.innerht.ml/twitter-crlf-injection/) by filedescriptor
+- [Twitter Overflow Trilogy in Twitter](https://blog.innerht.ml/overflow-trilogy/) by filedescriptor
+- [Twitter CRLF](https://blog.innerht.ml/twitter-crlf-injection/) by filedescriptor
+- [Adblock Plus and (a little) more in Google](https://adblockplus.org/blog/finding-security-issues-in-a-website-or-how-to-get-paid-by-google)
