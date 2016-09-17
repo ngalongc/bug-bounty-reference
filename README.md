@@ -150,3 +150,4 @@ My intention is to make a full and complete list of common vulnerability that ar
 
 ### HTTP Header Injection
 - [Overflow Trilogy in Twitter](https://blog.innerht.ml/overflow-trilogy/) by filedescriptor
+- [https://blog.innerht.ml/twitter-crlf-injection/](https://blog.innerht.ml/twitter-crlf-injection/) by filedescriptor
