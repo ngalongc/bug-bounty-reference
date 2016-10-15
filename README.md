@@ -6,6 +6,8 @@ I have reading for Bug Bounty write-ups for a few months, I found it extremely u
 
 My intention is to make a full and complete list of common vulnerability that are publicly disclosed bug bounty write-up, and let Bug Bounty Hunter to use this page as a reference when they want to gain some insight for a particular kind of vulnerability during Bug Hunting, feel free to submit pull request. Okay, enough for chit-chatting, let's get started. 
 
+This is my first Bug Bounty Finding! Feel free to leave some comment.
+[Abusing Multistage Logic Flaw to Buy Anything for Free at hk.deals.yahoo.com](http://ngailong.com/abusing-multistage-logic-flaw-to-buy-anything-for-free-at-hk-deals-yahoo-com/)
 
 - [Cross-Site Scripting (XSS)](https://github.com/ngalongc/bug-bounty-reference#cross-site-scripting-xss)
 - [Brute Force](https://github.com/ngalongc/bug-bounty-reference/blob/master/README.md#brute-force)
