@@ -47,6 +47,7 @@ This is my first Bug Bounty Finding so I think its worth sharing! Feel free to l
 - [Yahoo Mail stored XSS](https://klikki.fi/adv/yahoo.html) by Klikki Oy
 - [Abusing XSS Filter: One ^ leads to XSS(CVE-2016-3212)](http://mksben.l0.cm/2016/07/xxn-caret.html) by Masato Kinugawa
 - [Youtube XSS](https://labs.detectify.com/2015/06/06/google-xss-turkey/) by fransrosen
+- [Best Google XSS again](https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter) - by Krzysztof Kotowicz
 
 
 ### Brute Force
@@ -171,3 +172,5 @@ This is my first Bug Bounty Finding so I think its worth sharing! Feel free to l
 ## Subdomain Takeover
 - [Hijacking tons of Instapage expired users Domains & Subdomains](http://www.geekboy.ninja/blog/hijacking-tons-of-instapage-expired-users-domains-subdomains/) by geekboy
 - [Reading Emails in Uber Subdomains](https://hackerone.com/reports/156536)
+
+- [Slack Bug Journey](http://secalert.net/slack-security-bug-bounty.html) - by David Vieira-Kurz
