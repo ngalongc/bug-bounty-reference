@@ -49,6 +49,8 @@ This is my first Bug Bounty Finding so I think its worth sharing! Feel free to l
 - [Youtube XSS](https://labs.detectify.com/2015/06/06/google-xss-turkey/) by fransrosen
 - [Best Google XSS again](https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter) - by Krzysztof Kotowicz
 - [IE & Edge URL parsin Problem](https://labs.detectify.com/2016/10/24/combining-host-header-injection-and-lax-host-parsing-serving-malicious-data/) - by detectify
+- [Google XSS subdomain Clickjacking](http://sasi2103.blogspot.sg/2016/09/combination-of-techniques-lead-to-dom.html)
+- [Microsoft XSS and Twitter XSS](http://blog.wesecureapp.com/xss-by-tossing-cookies/)
 
 
 ### Brute Force
