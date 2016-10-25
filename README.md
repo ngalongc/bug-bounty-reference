@@ -48,6 +48,7 @@ This is my first Bug Bounty Finding so I think its worth sharing! Feel free to l
 - [Abusing XSS Filter: One ^ leads to XSS(CVE-2016-3212)](http://mksben.l0.cm/2016/07/xxn-caret.html) by Masato Kinugawa
 - [Youtube XSS](https://labs.detectify.com/2015/06/06/google-xss-turkey/) by fransrosen
 - [Best Google XSS again](https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter) - by Krzysztof Kotowicz
+- [IE & Edge URL parsin Problem](https://labs.detectify.com/2016/10/24/combining-host-header-injection-and-lax-host-parsing-serving-malicious-data/) - by detectify
 
 
 ### Brute Force
