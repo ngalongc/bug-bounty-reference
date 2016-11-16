@@ -144,6 +144,7 @@ This is my first Bug Bounty Finding so I think its worth sharing! Feel free to l
 - [Response To Request Injection (RTRI)](https://www.bugbountyhq.com/front/latestnews/dWRWR0thQ2ZWOFN5cTE1cXQrSFZmUT09/) by ?, be honest, thanks to this article, I have found quite a few bugs because of using his method, respect to the author!
 - [Leak of all project names and all user names , even across applications on Harvest](https://hackerone.com/reports/152696) by Edgar Boda-Majer (eboda)
 - [Changing paymentProfileUuid when booking a trip allows free rides at Uber](https://hackerone.com/reports/162809) by Matthew Temmy (temmyscript)
+- [View private tweet](https://hackerone.com/reports/174721)
 
 
 ### XXE
