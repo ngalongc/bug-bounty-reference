@@ -8,6 +8,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 
 
 - [Author's Write Up](https://github.com/ngalongc/bug-bounty-reference#author-write-up)
+- [XSSI](https://github.com/ngalongc/bug-bounty-reference#xssi)
 - [Cross-Site Scripting (XSS)](https://github.com/ngalongc/bug-bounty-reference#cross-site-scripting-xss)
 - [Brute Force](https://github.com/ngalongc/bug-bounty-reference/blob/master/README.md#brute-force)
 - [SQL Injection (SQLi)](https://github.com/ngalongc/bug-bounty-reference#sql-injection)
@@ -185,3 +186,10 @@ My intention is to make a full and complete list of common vulnerability that ar
 ## Author Write Up
 - [Payment Flaw in Yahoo](http://ngailong.com/abusing-multistage-logic-flaw-to-buy-anything-for-free-at-hk-deals-yahoo-com/)
 - [Bypassing Google Email Domain Check to Deliver Spam Email on Google’s Behalf](http://ngailong.com/bypassing-google-email-domain-check-to-deliver-spam-email-on-googles-behalf/)
+
+
+## XSSI
+- [Plain Text Reading by XSSI](http://balpha.de/2013/02/plain-text-considered-harmful-a-cross-domain-exploit/)
+- [JSON hijacking](http://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html)
+- [OWASP XSSI](https://www.owasp.org/images/f/f3/Your_Script_in_My_Page_What_Could_Possibly_Go_Wrong_-_Sebastian_Lekies%2BBen_Stock.pdf)
+- [Japan Identifier based XSSI attacks](http://www.mbsd.jp/Whitepaper/xssi.pdf)
