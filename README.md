@@ -6,10 +6,8 @@ I have reading for Bug Bounty write-ups for a few months, I found it extremely u
 
 My intention is to make a full and complete list of common vulnerability that are publicly disclosed bug bounty write-up, and let Bug Bounty Hunter to use this page as a reference when they want to gain some insight for a particular kind of vulnerability during Bug Hunting, feel free to submit pull request. Okay, enough for chit-chatting, let's get started. 
 
-This is my first Bug Bounty Finding so I think its worth sharing! Feel free to leave me some comment.
 
-[Abusing Multistage Logic Flaw to Buy Anything for Free at hk.deals.yahoo.com](http://ngailong.com/abusing-multistage-logic-flaw-to-buy-anything-for-free-at-hk-deals-yahoo-com/)
-
+- [Author's Write Up](https://github.com/ngalongc/bug-bounty-reference#author-write-up)
 - [Cross-Site Scripting (XSS)](https://github.com/ngalongc/bug-bounty-reference#cross-site-scripting-xss)
 - [Brute Force](https://github.com/ngalongc/bug-bounty-reference/blob/master/README.md#brute-force)
 - [SQL Injection (SQLi)](https://github.com/ngalongc/bug-bounty-reference#sql-injection)
@@ -145,6 +143,7 @@ This is my first Bug Bounty Finding so I think its worth sharing! Feel free to l
 - [Leak of all project names and all user names , even across applications on Harvest](https://hackerone.com/reports/152696) by Edgar Boda-Majer (eboda)
 - [Changing paymentProfileUuid when booking a trip allows free rides at Uber](https://hackerone.com/reports/162809) by Matthew Temmy (temmyscript)
 - [View private tweet](https://hackerone.com/reports/174721)
+- [Uber Enum UUID](http://www.rohk.xyz/uber-uuid/)
 
 
 ### XXE
@@ -181,5 +180,8 @@ This is my first Bug Bounty Finding so I think its worth sharing! Feel free to l
 ## Subdomain Takeover
 - [Hijacking tons of Instapage expired users Domains & Subdomains](http://www.geekboy.ninja/blog/hijacking-tons-of-instapage-expired-users-domains-subdomains/) by geekboy
 - [Reading Emails in Uber Subdomains](https://hackerone.com/reports/156536)
-
 - [Slack Bug Journey](http://secalert.net/slack-security-bug-bounty.html) - by David Vieira-Kurz
+
+## Author Write Up
+- [Payment Flaw in Yahoo](http://ngailong.com/abusing-multistage-logic-flaw-to-buy-anything-for-free-at-hk-deals-yahoo-com/)
+- [Bypassing Google Email Domain Check to Deliver Spam Email on Google’s Behalf](http://ngailong.com/bypassing-google-email-domain-check-to-deliver-spam-email-on-googles-behalf/)
