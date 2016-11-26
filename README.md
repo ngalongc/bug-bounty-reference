@@ -24,7 +24,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Race Condition](https://github.com/ngalongc/bug-bounty-reference#race-condition)
 - [Business Logic Flaw](https://github.com/ngalongc/bug-bounty-reference#race-condition#business-logic-flaw)
 - [Authentication Bypass](https://github.com/ngalongc/bug-bounty-reference#race-condition#business-logic-flaw#authentication-bypass)
-- [HTTP Header Injection]
+- [HTTP Header Injection](https://github.com/ngalongc/bug-bounty-reference#http-header-injection)
 
 ### Cross-Site Scripting (XSS)
 
