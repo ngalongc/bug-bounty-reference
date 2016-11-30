@@ -202,3 +202,6 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [OWASP XSSI](https://www.owasp.org/images/f/f3/Your_Script_in_My_Page_What_Could_Possibly_Go_Wrong_-_Sebastian_Lekies%2BBen_Stock.pdf)
 - [Japan Identifier based XSSI attacks](http://www.mbsd.jp/Whitepaper/xssi.pdf)
 - [JSON Hijack Slide](https://www.owasp.org/images/6/6a/OWASPLondon20161124_JSON_Hijacking_Gareth_Heyes.pdf)
+
+## No Category
+[SAML Pen Test Good Paper](http://research.aurainfosec.io/bypassing-saml20-SSO/)
