@@ -109,6 +109,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Crazy! PornHub RCE AGAIN!!! How I hacked Pornhub for fun and profit - 10,000$](https://5haked.blogspot.sg/) by 5haked
 - [PayPal Node.js code injection (RCE)](http://artsploit.blogspot.hk/2016/08/pprce2.html) by Michael Stepankin
 - [eBay PHP Parameter Injection lead to RCE](http://secalert.net/#ebay-rce-ccs)
+- [Yahoo Acqusition RCE](https://seanmelia.files.wordpress.com/2016/02/yahoo-remote-code-execution-cms1.pdf)
 
 ####  Deserialization
   - [Java Deserialization in manager.paypal.com](http://artsploit.blogspot.hk/2016/01/paypal-rce.html) by Michael Stepankin
@@ -151,6 +152,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 ### XXE
 - [How we got read access on Google’s production servers](https://blog.detectify.com/2014/04/11/how-we-got-read-access-on-googles-production-servers/) by  detectify
 - [Blind OOB XXE At UBER 26+ Domains Hacked](http://nerdint.blogspot.hk/2016/08/blind-oob-xxe-at-uber-26-domains-hacked.html) by Raghav Bisht
+- [XXE through SAML](https://seanmelia.files.wordpress.com/2016/01/out-of-band-xml-external-entity-injection-via-saml-redacted.pdf)
 
 ### Unrestricted File Upload
 - [File Upload XSS in image uploading of App in mopub](https://hackerone.com/reports/97672) by vijay kumar 
@@ -159,6 +161,8 @@ My intention is to make a full and complete list of common vulnerability that ar
 
 ### Server Side Request Forgery (SSRF)
 - [ESEA Server-Side Request Forgery and Querying AWS Meta Data](http://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/) by Brett Buerhaus
+- [SSRF to pivot internal network](https://seanmelia.files.wordpress.com/2016/07/ssrf-to-pivot-internal-networks.pdf)
+- [SSRF to LFI](https://seanmelia.wordpress.com/2015/12/23/various-server-side-request-forgery-issues/)
 
 ### Race Condition
 - [Race conditions on Facebook, DigitalOcean and others (fixed)](http://josipfranjkovic.blogspot.hk/2015/04/race-conditions-on-facebook.html) by Josip Franjković
