@@ -82,6 +82,9 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Change any Uber user's password through /rt/users/passwordless-signup - Account Takeover (critical)](https://hackerone.com/reports/143717) by mongo (mongo)
 - [Internet Explorer has a URL problem, on GitHub](http://blog.innerht.ml/internet-explorer-has-a-url-problem/) by filedescriptor.
 - [How I made LastPass give me all your passwords](https://labs.detectify.com/2016/07/27/how-i-made-lastpass-give-me-all-your-passwords/) by labsdetectify
+- [Steal Google Oauth in Microsoft](http://blog.intothesymmetry.com/2015/06/on-oauth-token-hijacks-for-fun-and.html)
+- [Steal FB Access Token](http://blog.intothesymmetry.com/2014/04/oauth-2-how-i-have-hacked-facebook.html)
+- [Paypal Access Token Leaked](http://blog.intothesymmetry.com/2016/11/all-your-paypal-tokens-belong-to-me.html?m=1)
 
 #### Google oauth bypass
 - [Bypassing Google Authentication on Periscope's Administration Panel](https://whitton.io/articles/bypassing-google-authentication-on-periscopes-admin-panel/) By Jack Whitton
