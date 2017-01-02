@@ -197,6 +197,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 ## Author Write Up
 - [Payment Flaw in Yahoo](http://ngailong.com/abusing-multistage-logic-flaw-to-buy-anything-for-free-at-hk-deals-yahoo-com/)
 - [Bypassing Google Email Domain Check to Deliver Spam Email on Google’s Behalf](http://ngailong.com/bypassing-google-email-domain-check-to-deliver-spam-email-on-googles-behalf/)
+- [When Server Side Request Forgery combine with Cross Site Scripting](http://ngailong.com/what-could-happen-when-server-side-request-forgery-combine-with-cross-site-scripting/)
 
 
 ## XSSI
