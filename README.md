@@ -66,7 +66,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Possibility to brute force invite codes in riders.uber.com](https://hackerone.com/reports/125505) by r0t
 - [Brute-Forcing invite codes in partners.uber.com](https://hackerone.com/reports/144616) by Efkan Gökbaş (mefkan)
 - [How I could have hacked all Facebook accounts](http://www.anandpraka.sh/2016/03/how-i-could-have-hacked-your-facebook.html) by Anand Prakash
-- [Facebook Account Take Over by using SMS verification code](http://arunsureshkumar.me/index.php/2016/04/24/facebook-account-take-over/) by Arun Sureshkumar
+- [Facebook Account Take Over by using SMS verification code, not accessible by now, may get update from author later](http://arunsureshkumar.me/index.php/2016/04/24/facebook-account-take-over/) by Arun Sureshkumar
 
 ### SQL Injection
 - [SQL injection in Wordpress Plugin Huge IT Video Gallery in Uber](https://hackerone.com/reports/125932) by glc
