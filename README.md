@@ -211,3 +211,4 @@ My intention is to make a full and complete list of common vulnerability that ar
 
 ## No Category
 [SAML Pen Test Good Paper](http://research.aurainfosec.io/bypassing-saml20-SSO/)
+[A list of FB writeup collected by phwd](https://www.facebook.com/notes/phwd/facebook-bug-bounties/707217202701640) by phwd
