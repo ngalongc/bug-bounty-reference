@@ -153,6 +153,8 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Changing paymentProfileUuid when booking a trip allows free rides at Uber](https://hackerone.com/reports/162809) by Matthew Temmy (temmyscript)
 - [View private tweet](https://hackerone.com/reports/174721)
 - [Uber Enum UUID](http://www.rohk.xyz/uber-uuid/)
+- [Hacking Facebook’s Legacy API, Part 1: Making Calls on Behalf of Any User](http://stephensclafani.com/2014/07/08/hacking-facebooks-legacy-api-part-1-making-calls-on-behalf-of-any-user/) by Stephen Sclafani
+- [Hacking Facebook’s Legacy API, Part 2: Stealing User Sessions](http://stephensclafani.com/2014/07/29/hacking-facebooks-legacy-api-part-2-stealing-user-sessions/) by Stephen Sclafani
 
 
 ### XXE
