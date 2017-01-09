@@ -213,4 +213,5 @@ My intention is to make a full and complete list of common vulnerability that ar
 [SAML Pen Test Good Paper](http://research.aurainfosec.io/bypassing-saml20-SSO/)
 [A list of FB writeup collected by phwd](https://www.facebook.com/notes/phwd/facebook-bug-bounties/707217202701640) by phwd
 [NoSQL Injection](http://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html) by websecurify
-[CORS](http://www.geekboy.ninja/blog/exploiting-misconfigured-cors-cross-origin-resource-sharing/)
+[CORS in action](http://www.geekboy.ninja/blog/exploiting-misconfigured-cors-cross-origin-resource-sharing/)
+[CORS in Fb messenger](http://www.cynet.com/blog-facebook-originull/)
