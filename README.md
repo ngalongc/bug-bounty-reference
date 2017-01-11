@@ -57,6 +57,8 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [xss in google by IE weird behavior](http://blog.bentkowski.info/2015/04/xss-via-host-header-cse.html)
 - [xss in Yahoo Fantasy Sport](http://dawgyg.com/2016/12/07/stored-xss-affecting-all-fantasy-sports-fantasysports-yahoo-com-2/)
 - [xss in Yahoo Mail Again, worth $10000](https://klikki.fi/adv/yahoo2.html) by Klikki Oy
+- [Sleeping XSS in Google](https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/) by securityguard
+- [Decoding a .htpasswd to earn a payload of money](https://blog.it-securityguard.com/bugbounty-decoding-a-%F0%9F%98%B1-00000-htpasswd-bounty/) by securityguard
 
 
 ### Brute Force
@@ -210,8 +212,9 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [JSON Hijack Slide](https://www.owasp.org/images/6/6a/OWASPLondon20161124_JSON_Hijacking_Gareth_Heyes.pdf)
 
 ## No Category
-[SAML Pen Test Good Paper](http://research.aurainfosec.io/bypassing-saml20-SSO/)
-[A list of FB writeup collected by phwd](https://www.facebook.com/notes/phwd/facebook-bug-bounties/707217202701640) by phwd
-[NoSQL Injection](http://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html) by websecurify
-[CORS in action](http://www.geekboy.ninja/blog/exploiting-misconfigured-cors-cross-origin-resource-sharing/)
-[CORS in Fb messenger](http://www.cynet.com/blog-facebook-originull/)
+- [SAML Pen Test Good Paper](http://research.aurainfosec.io/bypassing-saml20-SSO/)
+- [A list of FB writeup collected by phwd](https://www.facebook.com/notes/phwd/facebook-bug-bounties/707217202701640) by phwd
+- [NoSQL Injection](http://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html) by websecurify
+- [CORS in action](http://www.geekboy.ninja/blog/exploiting-misconfigured-cors-cross-origin-resource-sharing/)
+- [CORS in Fb messenger](http://www.cynet.com/blog-facebook-originull/)
+- [Methodologies](https://blog.zsec.uk/)
