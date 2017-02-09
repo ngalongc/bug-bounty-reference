@@ -26,6 +26,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Business Logic Flaw](https://github.com/ngalongc/bug-bounty-reference#race-condition#business-logic-flaw)
 - [Authentication Bypass](https://github.com/ngalongc/bug-bounty-reference#race-condition#business-logic-flaw#authentication-bypass)
 - [HTTP Header Injection](https://github.com/ngalongc/bug-bounty-reference#http-header-injection)
+- [Email Related](https://github.com/ngalongc/bug-bounty-reference#email-related)
 
 ### Cross-Site Scripting (XSS)
 
@@ -214,6 +215,12 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [OWASP XSSI](https://www.owasp.org/images/f/f3/Your_Script_in_My_Page_What_Could_Possibly_Go_Wrong_-_Sebastian_Lekies%2BBen_Stock.pdf)
 - [Japan Identifier based XSSI attacks](http://www.mbsd.jp/Whitepaper/xssi.pdf)
 - [JSON Hijack Slide](https://www.owasp.org/images/6/6a/OWASPLondon20161124_JSON_Hijacking_Gareth_Heyes.pdf)
+
+##Email Related
+-[This domain is my domain - G Suite A record vulnerability](http://blog.pentestnepal.tech/post/156959105292/this-domain-is-my-domain-g-suite-a-record)
+-[I got emails - G Suite Vulnerability](http://blog.pentestnepal.tech/post/156707088037/i-got-emails-g-suite-vulnerability)
+-[How I snooped into your private Slack messages [Slack Bug bounty worth $2,500]](http://blog.pentestnepal.tech/post/150381068912/how-i-snooped-into-your-private-slack-messages)
+-[Reading Uber’s Internal Emails [Uber Bug Bounty report worth $10,000]](http://blog.pentestnepal.tech/post/149985438982/reading-ubers-internal-emails-uber-bug-bounty)
 
 ## No Category
 - [SAML Pen Test Good Paper](http://research.aurainfosec.io/bypassing-saml20-SSO/)
