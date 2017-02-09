@@ -140,7 +140,8 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Change any user's password in Uber](https://hackerone.com/reports/143717) by mongo
 - [Vulnerability in Youtube allowed moving comments from any video to another](https://www.secgeek.net/youtube-vulnerability/) by secgeek
   - It's *Google* Vulnerability, so it's worth reading, as generally it is more difficult to find Google vulnerability
-- [Twitter Vulnerability Could Delete Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerability/) by secgeek
+- [Twitter Vulnerability Could 
+Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerability/) by secgeek
 - [One Vulnerability allowed deleting comments of any user in all Yahoo sites](https://www.secgeek.net/yahoo-comments-vulnerability/) by secgeek
 - [Microsoft-careers.com Remote Password Reset](http://yasserali.com/microsoft-careers-com-remote-password-reset/) by Yaaser Ali
 - [How I could change your eBay password](http://yasserali.com/how-i-could-change-your-ebay-password/) by Yaaser Ali
@@ -162,6 +163,8 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Uber Enum UUID](http://www.rohk.xyz/uber-uuid/)
 - [Hacking Facebook’s Legacy API, Part 1: Making Calls on Behalf of Any User](http://stephensclafani.com/2014/07/08/hacking-facebooks-legacy-api-part-1-making-calls-on-behalf-of-any-user/) by Stephen Sclafani
 - [Hacking Facebook’s Legacy API, Part 2: Stealing User Sessions](http://stephensclafani.com/2014/07/29/hacking-facebooks-legacy-api-part-2-stealing-user-sessions/) by Stephen Sclafani
+- [Delete FB Video](https://danmelamed.blogspot.hk/2017/01/facebook-vulnerability-delete-any-video.html)
+- [Delete FB Video](https://pranavhivarekar.in/2016/06/23/facebooks-bug-delete-any-video-from-facebook/)
 
 
 ### XXE
