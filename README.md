@@ -3,7 +3,7 @@ A list of bug bounty write-up that is categorized by the bug nature, this is ins
 
 #Introduction
 Follow my Twitter @ngalongc
-I have reading for Bug Bounty write-ups for a few months, I found it extremely useful to read relevant write-up when I found a certain type of vulnerability tha I have no idea how to exploit. Let say you found a RPO (Relativce Path Overwrite) in a website, but you have no idea how should you exploit that, then the perfect place to go would be [here](http://blog.innerht.ml/rpo-gadgets/). Or you have found your customer is using oauth mechanism but you have no idea how should we test it, the other perfect place to go would be [here](https://whitton.io/articles/obtaining-tokens-outlook-office-azure-account/)
+I have been reading for Bug Bounty write-ups for a few months, I found it extremely useful to read relevant write-up when I found a certain type of vulnerability tha I have no idea how to exploit. Let say you found a RPO (Relativce Path Overwrite) in a website, but you have no idea how should you exploit that, then the perfect place to go would be [here](http://blog.innerht.ml/rpo-gadgets/). Or you have found your customer is using oauth mechanism but you have no idea how should we test it, the other perfect place to go would be [here](https://whitton.io/articles/obtaining-tokens-outlook-office-azure-account/)
 
 My intention is to make a full and complete list of common vulnerability that are publicly disclosed bug bounty write-up, and let Bug Bounty Hunter to use this page as a reference when they want to gain some insight for a particular kind of vulnerability during Bug Hunting, feel free to submit pull request. Okay, enough for chit-chatting, let's get started. 
 
@@ -98,6 +98,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Steal FB Access Token](http://blog.intothesymmetry.com/2014/04/oauth-2-how-i-have-hacked-facebook.html)
 - [Paypal Access Token Leaked](http://blog.intothesymmetry.com/2016/11/all-your-paypal-tokens-belong-to-me.html?m=1)
 - [Steal FB Access Token](http://homakov.blogspot.sg/2013/02/hacking-facebook-with-oauth2-and-chrome.html) 
+- [Appengine Cool Bug](https://proximasec.blogspot.hk/2017/02/a-tale-about-appengines-authentication.html)
 
 #### Google oauth bypass
 - [Bypassing Google Authentication on Periscope's Administration Panel](https://whitton.io/articles/bypassing-google-authentication-on-periscopes-admin-panel/) By Jack Whitton
