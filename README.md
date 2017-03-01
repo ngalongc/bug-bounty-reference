@@ -99,6 +99,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Paypal Access Token Leaked](http://blog.intothesymmetry.com/2016/11/all-your-paypal-tokens-belong-to-me.html?m=1)
 - [Steal FB Access Token](http://homakov.blogspot.sg/2013/02/hacking-facebook-with-oauth2-and-chrome.html) 
 - [Appengine Cool Bug](https://proximasec.blogspot.hk/2017/02/a-tale-about-appengines-authentication.html)
+- [Slack post message real life experience](https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/)
 
 #### Google oauth bypass
 - [Bypassing Google Authentication on Periscope's Administration Panel](https://whitton.io/articles/bypassing-google-authentication-on-periscopes-admin-panel/) By Jack Whitton
