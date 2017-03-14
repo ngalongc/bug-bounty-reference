@@ -134,6 +134,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [eBay PHP Parameter Injection lead to RCE](http://secalert.net/#ebay-rce-ccs)
 - [Yahoo Acqusition RCE](https://seanmelia.files.wordpress.com/2016/02/yahoo-remote-code-execution-cms1.pdf)
 - [Command Injection Vulnerability in Hostinger](http://elladodelnovato.blogspot.hk/2017/02/command-injection-vulnerability-in.html?spref=tw&m=1) by @alberto__segura
+- [RCE in Airbnb by Ruby Injection](http://buer.haus/2017/03/13/airbnb-ruby-on-rails-string-interpolation-led-to-remote-code-execution/) by buer
 
 
 ####  Deserialization
