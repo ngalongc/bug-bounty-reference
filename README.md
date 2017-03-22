@@ -103,6 +103,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Appengine Cool Bug](https://proximasec.blogspot.hk/2017/02/a-tale-about-appengines-authentication.html)
 - [Slack post message real life experience](https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/)
 - [Bypass redirect_uri](http://nbsriharsha.blogspot.in/2016/04/oauth-20-redirection-bypass-cheat-sheet.html) by nbsriharsha
+- [Stealing Facebook Messenger nonce worth 15k](https://stephensclafani.com/2017/03/21/stealing-messenger-com-login-nonces/)  
 
 #### Google oauth bypass
 - [Bypassing Google Authentication on Periscope's Administration Panel](https://whitton.io/articles/bypassing-google-authentication-on-periscopes-admin-panel/) By Jack Whitton
