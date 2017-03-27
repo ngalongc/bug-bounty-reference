@@ -270,3 +270,4 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [XSS Checklist when you have no idea how to exploit the bug](http://d3adend.org/xss/ghettoBypass)
 - [CTF write up, Great for Bug Bounty](https://ctftime.org/writeups?tags=web200&hidden-tags=web%2cweb100%2cweb200)
 - [It turns out every site uses jquery mobile with Open Redirect is vulnerable to XSS](http://sirdarckcat.blogspot.com/2017/02/unpatched-0day-jquery-mobile-xss.html) by sirdarckcat
+- [Bypass CSP by using google-analytics](https://hackerone.com/reports/199779)
