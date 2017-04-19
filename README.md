@@ -260,7 +260,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [NoSQL Injection](http://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html) by websecurify
 - [CORS in action](http://www.geekboy.ninja/blog/exploiting-misconfigured-cors-cross-origin-resource-sharing/)
 - [CORS in Fb messenger](http://www.cynet.com/blog-facebook-originull/)
-- [Methodologies](https://blog.zsec.uk/)
+- [Web App Methodologies](https://blog.zsec.uk/ltr101-method-to-madness/)
 - [XXE Cheatsheet](https://www.silentrobots.com/blog/2015/12/14/xe-cheatsheet-update/)
 - [The road to hell is paved with SAML Assertions, Microsoft Vulnerability](http://www.economyofmechanism.com/office365-authbypass.html#office365-authbypass)
 - [Study this if you like to learn Mongo SQL Injection](https://cirw.in/blog/hash-injection) by cirw
