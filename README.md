@@ -143,6 +143,8 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [RCE in Airbnb by Ruby Injection](http://buer.haus/2017/03/13/airbnb-ruby-on-rails-string-interpolation-led-to-remote-code-execution/) by buerRCE
 - [RCE in Imgur by Command Line](https://hackerone.com/reports/212696)
 - [RCE in git.imgur.com by abusing out dated software](https://hackerone.com/reports/206227)
+- [RCE in Disclosure](https://hackerone.com/reports/213558)
+
 
 
 ####  Deserialization
@@ -269,6 +271,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 
 ## No Category
 
+- [Local File Inclusion by Symlink](https://hackerone.com/reports/213558)
 - [SAML Pen Test Good Paper](http://research.aurainfosec.io/bypassing-saml20-SSO/)
 - [A list of FB writeup collected by phwd](https://www.facebook.com/notes/phwd/facebook-bug-bounties/707217202701640) by phwd
 - [NoSQL Injection](http://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html) by websecurify
