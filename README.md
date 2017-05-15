@@ -268,10 +268,15 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 
 - [Round error issue -> produce money for free in Bitcoin Site](https://hackerone.com/reports/176461) by 4lemon
 
+##Modern Local File Inclusion
+- [Disclosure Local File Inclusion by Symlink](https://hackerone.com/reports/213558)
+- [Facebook Symlink Local File Inclusion](http://josipfranjkovic.blogspot.hk/2014/12/reading-local-files-from-facebooks.html)
+- [Gitlab Symlink Local File Inclusion](https://hackerone.com/reports/158330)
+- [Gitlab Symlink Local File Inclusion Part II](https://hackerone.com/reports/178152)
 
 ## No Category
 
-- [Local File Inclusion by Symlink](https://hackerone.com/reports/213558)
+
 - [SAML Pen Test Good Paper](http://research.aurainfosec.io/bypassing-saml20-SSO/)
 - [A list of FB writeup collected by phwd](https://www.facebook.com/notes/phwd/facebook-bug-bounties/707217202701640) by phwd
 - [NoSQL Injection](http://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html) by websecurify
