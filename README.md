@@ -273,6 +273,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Facebook Symlink Local File Inclusion](http://josipfranjkovic.blogspot.hk/2014/12/reading-local-files-from-facebooks.html)
 - [Gitlab Symlink Local File Inclusion](https://hackerone.com/reports/158330)
 - [Gitlab Symlink Local File Inclusion Part II](https://hackerone.com/reports/178152)
+- [Multiple Company LFI](http://panchocosil.blogspot.sg/2017/05/one-cloud-based-local-file-inclusion.html)
 
 ## No Category
 
