@@ -158,6 +158,8 @@ My intention is to make a full and complete list of common vulnerability that ar
   - [Exploting ImageMagick to get RCE on HackerOne](https://hackerone.com/reports/135072) by c666a323be94d57
   - [Trello bug bounty: Access server's files using ImageTragick](https://hethical.io/trello-bug-bounty-access-servers-files-using-imagetragick/) by Florian Courtial 
   - [40k fb rce](4lemon.ru/2017-01-17_facebook_imagetragick_remote_code_execution.html)
+  - [Yahoo Bleed 1](https://scarybeastsecurity.blogspot.hk/2017/05/bleed-continues-18-byte-file-14k-bounty.html)
+  - [Yahoo Bleed 2](https://scarybeastsecurity.blogspot.hk/2017/05/bleed-more-powerful-dumping-yahoo.html)
 
 ### Insecure Direct Object Reference (IDOR)
 - [Trello bug bounty: The websocket receives data when a public company creates a team visible board](https://hethical.io/trello-bug-bounty-the-websocket-receives-data-when-a-public-company-creates-a-team-visible-board/) by Florian Courtial 
