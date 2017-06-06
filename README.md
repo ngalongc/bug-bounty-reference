@@ -72,6 +72,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Airbnb – When Bypassing JSON Encoding, XSS Filter, WAF, CSP, and Auditor turns into Eight Vulnerabilities](https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/) by Brett 
 - [XSSI, Client Side Brute Force](http://blog.intothesymmetry.com/2017/05/cross-origin-brute-forcing-of-saml-and.html)  
 - [postMessage XSS Bypass](https://hackerone.com/reports/231053)
+- [Login.yahoolcom XSS](http://samcurry.net/understanding-the-logic-behind-broken-html-editors-achieving-stored-xss-on-login-yahoo-com/)
 
 
 ### Brute Force
@@ -146,7 +147,8 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [RCE in Imgur by Command Line](https://hackerone.com/reports/212696)
 - [RCE in git.imgur.com by abusing out dated software](https://hackerone.com/reports/206227)
 - [RCE in Disclosure](https://hackerone.com/reports/213558)
-
+- [Remote Code Execution by struct2 Yahoo Server](https://medium.com/@th3g3nt3l/how-i-got-5500-from-yahoo-for-rce-92fffb7145e6)
+- [Command Injection in Yahoo Acquisition](http://samcurry.net/how-i-couldve-taken-over-the-production-server-of-a-yahoo-acquisition-through-command-injection/)
 
 
 ####  Deserialization
