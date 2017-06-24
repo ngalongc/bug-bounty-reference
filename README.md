@@ -285,6 +285,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Gitlab Symlink Local File Inclusion](https://hackerone.com/reports/158330)
 - [Gitlab Symlink Local File Inclusion Part II](https://hackerone.com/reports/178152)
 - [Multiple Company LFI](http://panchocosil.blogspot.sg/2017/05/one-cloud-based-local-file-inclusion.html)
+- [LFI by video conversion, excited about this trick!](https://hackerone.com/reports/226756)
 
 ## No Category
 
