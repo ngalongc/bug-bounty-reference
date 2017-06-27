@@ -1,8 +1,8 @@
-#Bug Bounty Reference
+# Bug Bounty Reference
 
 A list of bug bounty write-up that is categorized by the bug nature, this is inspired by https://github.com/djadmin/awesome-bug-bounty
 
-#Introduction
+# Introduction
 
 Follow my Twitter @ngalongc
 I have been reading for Bug Bounty write-ups for a few months, I found it extremely useful to read relevant write-up when I found a certain type of vulnerability tha I have no idea how to exploit. Let say you found a RPO (Relativce Path Overwrite) in a website, but you have no idea how should you exploit that, then the perfect place to go would be [here](http://blog.innerht.ml/rpo-gadgets/). Or you have found your customer is using oauth mechanism but you have no idea how should we test it, the other perfect place to go would be [here](https://whitton.io/articles/obtaining-tokens-outlook-office-azure-account/)
@@ -70,6 +70,9 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Uber Self XSS to Global XSS](https://httpsonly.blogspot.hk/2016/08/turning-self-xss-into-good-xss-v2.html)
 - [How I found a $5,000 Google Maps XSS (by fiddling with Protobuf)](https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff#.cktt61q9g) by Marin MoulinierFollow
 - [Airbnb – When Bypassing JSON Encoding, XSS Filter, WAF, CSP, and Auditor turns into Eight Vulnerabilities](https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/) by Brett 
+- [XSSI, Client Side Brute Force](http://blog.intothesymmetry.com/2017/05/cross-origin-brute-forcing-of-saml-and.html)  
+- [postMessage XSS Bypass](https://hackerone.com/reports/231053)
+- [Login.yahoolcom XSS](http://samcurry.net/understanding-the-logic-behind-broken-html-editors-achieving-stored-xss-on-login-yahoo-com/)
 
 
 ### Brute Force
@@ -144,7 +147,8 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [RCE in Imgur by Command Line](https://hackerone.com/reports/212696)
 - [RCE in git.imgur.com by abusing out dated software](https://hackerone.com/reports/206227)
 - [RCE in Disclosure](https://hackerone.com/reports/213558)
-
+- [Remote Code Execution by struct2 Yahoo Server](https://medium.com/@th3g3nt3l/how-i-got-5500-from-yahoo-for-rce-92fffb7145e6)
+- [Command Injection in Yahoo Acquisition](http://samcurry.net/how-i-couldve-taken-over-the-production-server-of-a-yahoo-acquisition-through-command-injection/)
 
 
 ####  Deserialization
@@ -158,6 +162,8 @@ My intention is to make a full and complete list of common vulnerability that ar
   - [Exploting ImageMagick to get RCE on HackerOne](https://hackerone.com/reports/135072) by c666a323be94d57
   - [Trello bug bounty: Access server's files using ImageTragick](https://hethical.io/trello-bug-bounty-access-servers-files-using-imagetragick/) by Florian Courtial 
   - [40k fb rce](4lemon.ru/2017-01-17_facebook_imagetragick_remote_code_execution.html)
+  - [Yahoo Bleed 1](https://scarybeastsecurity.blogspot.hk/2017/05/bleed-continues-18-byte-file-14k-bounty.html)
+  - [Yahoo Bleed 2](https://scarybeastsecurity.blogspot.hk/2017/05/bleed-more-powerful-dumping-yahoo.html)
 
 ### Insecure Direct Object Reference (IDOR)
 - [Trello bug bounty: The websocket receives data when a public company creates a team visible board](https://hethical.io/trello-bug-bounty-the-websocket-receives-data-when-a-public-company-creates-a-team-visible-board/) by Florian Courtial 
@@ -192,6 +198,9 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Delete FB Video](https://pranavhivarekar.in/2016/06/23/facebooks-bug-delete-any-video-from-facebook/)
 - [Facebook Page Takeover by Manipulating the Parameter](http://arunsureshkumar.me/index.php/2016/09/16/facebook-page-takeover-zero-day-vulnerability/) by arunsureshkumar
 - [Viewing private Airbnb Messages](http://buer.haus/2017/03/31/airbnb-web-to-app-phone-notification-idor-to-view-everyones-airbnb-messages/) 
+- [IDOR tweet as any user](http://kedrisec.com/twitter-publish-by-any-user/) by kedrisec
+- [Classic IDOR endpoints in Twitter](http://www.anandpraka.sh/2017/05/how-i-took-control-of-your-twitter.html) 
+- [Mass Assignment, Response to Request Injection, Admin Escalation](https://seanmelia.wordpress.com/2017/06/01/privilege-escalation-in-a-django-application/) by sean
 
 
 ### XXE
@@ -212,6 +221,8 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [SSRF to LFI](https://seanmelia.wordpress.com/2015/12/23/various-server-side-request-forgery-issues/)
 - [SSRF to query google internal server](https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/)
 - [SSRF by using third party Open redirect](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/) by Brett BUERHAUS
+- [SSRF tips from BugBountyHQ of Images](https://twitter.com/BugBountyHQ/status/868242771617792000)
+- [SSRF to RCE](http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html)
 
 ### Race Condition
 
@@ -229,7 +240,9 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 ### Authentication Bypass
 - [OneLogin authentication bypass on WordPress sites via XMLRPC in Uber](https://hackerone.com/reports/138869) by Jouko Pynnönen (jouko)
 - [2FA PayPal Bypass](https://henryhoggard.co.uk/blog/Paypal-2FA-Bypass) by henryhoggard
-- [SAML Bug in Github worth 15000](http://www.economyofmechanism.com/github-saml.html) 
+- [SAML Bug in Github worth 15000](http://www.economyofmechanism.com/github-saml.html)  
+- [Authentication bypass on Airbnb via OAuth tokens theft](https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/)
+- [Uber Login CSRF + Open Redirect -> Account Takeover at Uber](http://ngailong.com/uber-login-csrf-open-redirect-account-takeover/)
 
 ### HTTP Header Injection
 - [Twitter Overflow Trilogy in Twitter](https://blog.innerht.ml/overflow-trilogy/) by filedescriptor
@@ -257,7 +270,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Japan Identifier based XSSI attacks](http://www.mbsd.jp/Whitepaper/xssi.pdf)
 - [JSON Hijack Slide](https://www.owasp.org/images/6/6a/OWASPLondon20161124_JSON_Hijacking_Gareth_Heyes.pdf)
 
-##Email Related
+## Email Related
 
 - [This domain is my domain - G Suite A record vulnerability](http://blog.pentestnepal.tech/post/156959105292/this-domain-is-my-domain-g-suite-a-record)
 - [I got emails - G Suite Vulnerability](http://blog.pentestnepal.tech/post/156707088037/i-got-emails-g-suite-vulnerability)
@@ -268,12 +281,13 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 
 - [Round error issue -> produce money for free in Bitcoin Site](https://hackerone.com/reports/176461) by 4lemon
 
-##Modern Local File Inclusion
+## 2017 Local File Inclusion
 - [Disclosure Local File Inclusion by Symlink](https://hackerone.com/reports/213558)
 - [Facebook Symlink Local File Inclusion](http://josipfranjkovic.blogspot.hk/2014/12/reading-local-files-from-facebooks.html)
 - [Gitlab Symlink Local File Inclusion](https://hackerone.com/reports/158330)
 - [Gitlab Symlink Local File Inclusion Part II](https://hackerone.com/reports/178152)
 - [Multiple Company LFI](http://panchocosil.blogspot.sg/2017/05/one-cloud-based-local-file-inclusion.html)
+- [LFI by video conversion, excited about this trick!](https://hackerone.com/reports/226756)
 
 ## No Category
 
