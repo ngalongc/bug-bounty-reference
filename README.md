@@ -75,6 +75,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Login.yahoolcom XSS](http://samcurry.net/understanding-the-logic-behind-broken-html-editors-achieving-stored-xss-on-login-yahoo-com/)
 
 
+
 ### Brute Force
 - [Web Authentication Endpoint Credentials Brute-Force Vulnerability](https://hackerone.com/reports/127844) by Arne Swinnen
 - [InstaBrute: Two Ways to Brute-force Instagram Account Credentials](https://www.arneswinnen.net/2016/05/instabrute-two-ways-to-brute-force-instagram-account-credentials/) by Arne Swinnen
@@ -311,3 +312,4 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Bypass CSP by using google-analytics](https://hackerone.com/reports/199779)
 - [Payment Issue with Paypal](https://hackerone.com/reports/219215)
 - [Browser Exploitation in Chinese](http://paper.seebug.org/)
+- [XSS bypass filter](https://t.co/0Kpzo52ycb)
