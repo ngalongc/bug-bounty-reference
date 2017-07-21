@@ -150,6 +150,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [RCE in Disclosure](https://hackerone.com/reports/213558)
 - [Remote Code Execution by struct2 Yahoo Server](https://medium.com/@th3g3nt3l/how-i-got-5500-from-yahoo-for-rce-92fffb7145e6)
 - [Command Injection in Yahoo Acquisition](http://samcurry.net/how-i-couldve-taken-over-the-production-server-of-a-yahoo-acquisition-through-command-injection/)
+- [Paypal RCE](http://blog.pentestbegins.com/2017/07/21/hacking-into-paypal-server-remote-code-execution-2017/)
 
 
 ####  Deserialization
