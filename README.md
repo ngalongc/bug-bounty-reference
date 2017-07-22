@@ -75,6 +75,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Login.yahoolcom XSS](http://samcurry.net/understanding-the-logic-behind-broken-html-editors-achieving-stored-xss-on-login-yahoo-com/)
 
 
+
 ### Brute Force
 - [Web Authentication Endpoint Credentials Brute-Force Vulnerability](https://hackerone.com/reports/127844) by Arne Swinnen
 - [InstaBrute: Two Ways to Brute-force Instagram Account Credentials](https://www.arneswinnen.net/2016/05/instabrute-two-ways-to-brute-force-instagram-account-credentials/) by Arne Swinnen
@@ -149,6 +150,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [RCE in Disclosure](https://hackerone.com/reports/213558)
 - [Remote Code Execution by struct2 Yahoo Server](https://medium.com/@th3g3nt3l/how-i-got-5500-from-yahoo-for-rce-92fffb7145e6)
 - [Command Injection in Yahoo Acquisition](http://samcurry.net/how-i-couldve-taken-over-the-production-server-of-a-yahoo-acquisition-through-command-injection/)
+- [Paypal RCE](http://blog.pentestbegins.com/2017/07/21/hacking-into-paypal-server-remote-code-execution-2017/)
 
 
 ####  Deserialization
@@ -254,6 +256,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Hijacking tons of Instapage expired users Domains & Subdomains](http://www.geekboy.ninja/blog/hijacking-tons-of-instapage-expired-users-domains-subdomains/) by geekboy
 - [Reading Emails in Uber Subdomains](https://hackerone.com/reports/156536)
 - [Slack Bug Journey](http://secalert.net/slack-security-bug-bounty.html) - by David Vieira-Kurz
+- [Subdomain takeover and chain it to perform authentication bypass](https://www.arneswinnen.net/2017/06/authentication-bypass-on-ubers-sso-via-subdomain-takeover/) by Arne Swinnen
 
 ### Author Write Up
 
@@ -311,3 +314,4 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Bypass CSP by using google-analytics](https://hackerone.com/reports/199779)
 - [Payment Issue with Paypal](https://hackerone.com/reports/219215)
 - [Browser Exploitation in Chinese](http://paper.seebug.org/)
+- [XSS bypass filter](https://t.co/0Kpzo52ycb)
