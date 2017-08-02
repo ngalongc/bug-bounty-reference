@@ -10,27 +10,28 @@ I have been reading for Bug Bounty write-ups for a few months, I found it extrem
 My intention is to make a full and complete list of common vulnerability that are publicly disclosed bug bounty write-up, and let Bug Bounty Hunter to use this page as a reference when they want to gain some insight for a particular kind of vulnerability during Bug Hunting, feel free to submit pull request. Okay, enough for chit-chatting, let's get started. 
 
 
-- [Author's Write Up](https://github.com/ngalongc/bug-bounty-reference#author-write-up)
-- [XSSI](https://github.com/ngalongc/bug-bounty-reference#xssi)
-- [Cross-Site Scripting (XSS)](https://github.com/ngalongc/bug-bounty-reference#cross-site-scripting-xss)
-- [Brute Force](https://github.com/ngalongc/bug-bounty-reference/blob/master/README.md#brute-force)
-- [SQL Injection (SQLi)](https://github.com/ngalongc/bug-bounty-reference#sql-injection)
-- [External XML Entity Attack (XXE)](https://github.com/ngalongc/bug-bounty-reference#xxe)
-- [Remote Code Execution (RCE)](https://github.com/ngalongc/bug-bounty-reference#remote-code-execution)
-  - [Deserialization](https://github.com/ngalongc/bug-bounty-reference#deserialization)
-  - [Image Tragick](https://github.com/ngalongc/bug-bounty-reference#image-tragick)
-- [Cross-Site Request Forgery (CSRF)](https://github.com/ngalongc/bug-bounty-reference#csrf)
-- [Insecure Direct Object Reference (IDOR)](https://github.com/ngalongc/bug-bounty-reference#insecure-direct-object-reference-idor)
-- [Stealing Access Token](https://github.com/ngalongc/bug-bounty-reference#stealing-access-token)
-  - [Google Oauth Login Bypass](https://github.com/ngalongc/bug-bounty-reference#google-oauth-bypass)
-- [Server Side Request Forgery (SSRF)](https://github.com/ngalongc/bug-bounty-reference#server-side-request-forgery-ssrf)
-- [Unrestricted File Upload](https://github.com/ngalongc/bug-bounty-reference#unrestricted-file-upload)
-- [Race Condition](https://github.com/ngalongc/bug-bounty-reference#race-condition)
-- [Business Logic Flaw](https://github.com/ngalongc/bug-bounty-reference#race-condition#business-logic-flaw)
-- [Authentication Bypass](https://github.com/ngalongc/bug-bounty-reference#race-condition#business-logic-flaw#authentication-bypass)
-- [HTTP Header Injection](https://github.com/ngalongc/bug-bounty-reference#http-header-injection)
-- [Email Related](https://github.com/ngalongc/bug-bounty-reference#email-related)
-- Money Stealing
+- [Author's Write Up](#author-write-up)
+- [XSSI](#xssi)
+- [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
+- [Brute Force](#brute-force)
+- [SQL Injection (SQLi)](#sql-injection)
+- [External XML Entity Attack (XXE)](#xxe)
+- [Remote Code Execution (RCE)](#remote-code-execution)
+  - [Deserialization](#deserialization)
+  - [Image Tragick](#image-tragick)
+- [Cross-Site Request Forgery (CSRF)](#csrf)
+- [Insecure Direct Object Reference (IDOR)](#insecure-direct-object-reference-idor)
+- [Stealing Access Token](#stealing-access-token)
+  - [Google Oauth Login Bypass](#google-oauth-bypass)
+- [Server Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
+- [Unrestricted File Upload](#unrestricted-file-upload)
+- [Race Condition](#race-condition)
+- [Business Logic Flaw](#business-logic-flaw)
+- [Authentication Bypass](#authentication-bypass)
+- [HTTP Header Injection](#http-header-injection)
+- [Email Related](#email-related)
+- [Money Stealing](#money-stealing)
+- [Miscellaneous](#miscellaneous)
 
 ### Cross-Site Scripting (XSS)
 
@@ -288,6 +289,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Round error issue -> produce money for free in Bitcoin Site](https://hackerone.com/reports/176461) by 4lemon
 
 ## 2017 Local File Inclusion
+
 - [Disclosure Local File Inclusion by Symlink](https://hackerone.com/reports/213558)
 - [Facebook Symlink Local File Inclusion](http://josipfranjkovic.blogspot.hk/2014/12/reading-local-files-from-facebooks.html)
 - [Gitlab Symlink Local File Inclusion](https://hackerone.com/reports/158330)
@@ -295,8 +297,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Multiple Company LFI](http://panchocosil.blogspot.sg/2017/05/one-cloud-based-local-file-inclusion.html)
 - [LFI by video conversion, excited about this trick!](https://hackerone.com/reports/226756)
 
-## No Category
-
+## Miscellaneous
 
 - [SAML Pen Test Good Paper](http://research.aurainfosec.io/bypassing-saml20-SSO/)
 - [A list of FB writeup collected by phwd](https://www.facebook.com/notes/phwd/facebook-bug-bounties/707217202701640) by phwd
