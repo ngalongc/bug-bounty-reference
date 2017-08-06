@@ -319,3 +319,4 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Payment Issue with Paypal](https://hackerone.com/reports/219215)
 - [Browser Exploitation in Chinese](http://paper.seebug.org/)
 - [XSS bypass filter](https://t.co/0Kpzo52ycb)
+- [Markup Impropose Sanitization](https://github.com/ChALkeR/notes/blob/master/Improper-markup-sanitization.md)
