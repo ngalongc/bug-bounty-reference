@@ -254,6 +254,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Twitter Overflow Trilogy in Twitter](https://blog.innerht.ml/overflow-trilogy/) by filedescriptor
 - [Twitter CRLF](https://blog.innerht.ml/twitter-crlf-injection/) by filedescriptor
 - [Adblock Plus and (a little) more in Google](https://adblockplus.org/blog/finding-security-issues-in-a-website-or-how-to-get-paid-by-google)
+- [$10k host header](https://sites.google.com/site/testsitehacking/10k-host-header) by Ezequiel Pereira
 
 ### Subdomain Takeover
 
