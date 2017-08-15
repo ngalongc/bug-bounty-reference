@@ -146,7 +146,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Command Injection Vulnerability in Hostinger](http://elladodelnovato.blogspot.hk/2017/02/command-injection-vulnerability-in.html?spref=tw&m=1) by @alberto__segura
 - [RCE in Airbnb by Ruby Injection](http://buer.haus/2017/03/13/airbnb-ruby-on-rails-string-interpolation-led-to-remote-code-execution/) by buerRCE
 - [RCE in Imgur by Command Line](https://hackerone.com/reports/212696)
-- [RCE in git.imgur.com by abusing out dated software](https://hackerone.com/reports/206227)
+- [RCE in git.imgur.com by abusing out dated software](https://hackerone.com/reports/206227) by Orange Tsai
 - [RCE in Disclosure](https://hackerone.com/reports/213558)
 - [Remote Code Execution by struct2 Yahoo Server](https://medium.com/@th3g3nt3l/how-i-got-5500-from-yahoo-for-rce-92fffb7145e6)
 - [Command Injection in Yahoo Acquisition](http://samcurry.net/how-i-couldve-taken-over-the-production-server-of-a-yahoo-acquisition-through-command-injection/)
@@ -248,6 +248,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [SAML Bug in Github worth 15000](http://www.economyofmechanism.com/github-saml.html)  
 - [Authentication bypass on Airbnb via OAuth tokens theft](https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/)
 - [Uber Login CSRF + Open Redirect -> Account Takeover at Uber](http://ngailong.com/uber-login-csrf-open-redirect-account-takeover/)
+- [http://c0rni3sm.blogspot.hk/2017/08/accidentally-typo-to-bypass.html?m=1](Administrative Panel Access) by c0rni3sm
 
 ### HTTP Header Injection
 - [Twitter Overflow Trilogy in Twitter](https://blog.innerht.ml/overflow-trilogy/) by filedescriptor
