@@ -76,7 +76,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [XSS due to improper regex in third party js Uber 7k XSS](http://zhchbin.github.io/2016/09/10/A-Valuable-XSS/) 
 - [XSS in TinyMCE 2.4.0](https://hackerone.com/reports/262230) by Jelmer de Hen
 - [Pass uncoded URL in IE11 to cause XSS](https://hackerone.com/reports/150179)
-
+- [Twitter XSS by stopping redirection and javascript scheme](http://blog.blackfan.ru/2017/09/devtwittercom-xss.html) by Sergey Bobrov 
 
 ### Brute Force
 - [Web Authentication Endpoint Credentials Brute-Force Vulnerability](https://hackerone.com/reports/127844) by Arne Swinnen
