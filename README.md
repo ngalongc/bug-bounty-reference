@@ -290,6 +290,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [How I snooped into your private Slack messages [Slack Bug bounty worth $2,500]](http://blog.pentestnepal.tech/post/150381068912/how-i-snooped-into-your-private-slack-messages)
 - [Reading Uber’s Internal Emails [Uber Bug Bounty report worth $10,000]](http://blog.pentestnepal.tech/post/149985438982/reading-ubers-internal-emails-uber-bug-bounty)
 - [Slack Yammer Takeover by using TicketTrick](https://medium.com/@intideceukelaire/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c) by Inti De Ceukelaire
+- [How I could have mass uploaded from every Flickr account!](https://ret2got.wordpress.com/2017/10/05/how-i-could-have-mass-uploaded-from-every-flickr-account/)
 
 ## Money Stealing
 
