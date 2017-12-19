@@ -340,3 +340,4 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Bug Bounty Cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet) By EdOverflow
 - [Messing with the Google Buganizer System for $15,600 in Bounties](https://medium.freecodecamp.org/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5)
 - [Electron Security White Paper](https://www.blackhat.com/docs/us-17/thursday/us-17-Carettoni-Electronegativity-A-Study-Of-Electron-Security-wp.pdf)
+- [Twitter's Vine Source code dump - $10080](https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/)
