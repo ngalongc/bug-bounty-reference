@@ -244,7 +244,6 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Race Conditions in Popular reports feature in HackerOne](https://hackerone.com/reports/146845) by Fábio Pires (shmoo)
 
 ### Business Logic Flaw
-- [Facebook simple technical hack to see the timeline](http://ashishpadelkar.com/index.php/2015/09/23/facebook-simple-technical-bug-worth-7500/) by Ashish Padelkar
 - [How I Could Steal Money from Instagram, Google and Microsoft](https://www.arneswinnen.net/2016/07/how-i-could-steal-money-from-instagram-google-and-microsoft/) by Arne Swinnen
 - [How I could have removed all your Facebook notes](http://www.anandpraka.sh/2015/12/summary-this-blog-post-is-about.html)
 - [Facebook - bypass ads account's roles vulnerability 2015](http://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html) by POUYA DARABI
