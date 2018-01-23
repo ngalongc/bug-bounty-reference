@@ -261,6 +261,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Uber Bug Bounty: Gaining Access To An Internal Chat System](http://blog.mish.re/index.php/2017/09/06/uber-bug-bounty-gaining-access-to-an-internal-chat-system/) by mishre
 - [Flickr Oauth Misconfiguration](https://mishresec.wordpress.com/2017/10/12/yahoo-bug-bounty-exploiting-oauth-misconfiguration-to-takeover-flickr-accounts/) by mishre
 - [Slack SAML authentication bypass](http://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html) by Antonio Sanso
+- [Shopify admin authentication bypass using partners.shopify.com]https://hackerone.com/reports/270981) by uzsunny
 
 ### HTTP Header Injection
 - [Twitter Overflow Trilogy in Twitter](https://blog.innerht.ml/overflow-trilogy/) by filedescriptor
@@ -274,6 +275,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Reading Emails in Uber Subdomains](https://hackerone.com/reports/156536)
 - [Slack Bug Journey](http://secalert.net/slack-security-bug-bounty.html) - by David Vieira-Kurz
 - [Subdomain takeover and chain it to perform authentication bypass](https://www.arneswinnen.net/2017/06/authentication-bypass-on-ubers-sso-via-subdomain-takeover/) by Arne Swinnen
+- [Hacker.One Subdomain Takeover](https://hackerone.com/reports/159156) - by geekboy
 
 ### Author Write Up
 
