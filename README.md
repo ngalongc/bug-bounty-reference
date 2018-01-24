@@ -80,6 +80,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Auth DOM Uber XSS](http://stamone-bug-bounty.blogspot.hk/2017/10/dom-xss-auth_14.html)
 - [Managed Apps and Music: two Google reflected XSSes](https://ysx.me.uk/managed-apps-and-music-a-tale-of-two-xsses-in-google-play/)
 - [App Maker and Colaboratory: two Google stored XSSes](https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/)
+- [stagecafrstore.starbucks.com CRLF Injection, XSS](https://hackerone.com/reports/192667)
 
 ### Brute Force
 - [Web Authentication Endpoint Credentials Brute-Force Vulnerability](https://hackerone.com/reports/127844) by Arne Swinnen
