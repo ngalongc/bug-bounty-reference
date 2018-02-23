@@ -80,7 +80,6 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Auth DOM Uber XSS](http://stamone-bug-bounty.blogspot.hk/2017/10/dom-xss-auth_14.html)
 - [Managed Apps and Music: two Google reflected XSSes](https://ysx.me.uk/managed-apps-and-music-a-tale-of-two-xsses-in-google-play/)
 - [App Maker and Colaboratory: two Google stored XSSes](https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/)
-- [stagecafrstore.starbucks.com CRLF Injection, XSS](https://hackerone.com/reports/192667)
 
 ### Brute Force
 - [Web Authentication Endpoint Credentials Brute-Force Vulnerability](https://hackerone.com/reports/127844) by Arne Swinnen
@@ -131,7 +130,6 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Add tweet to collection CSRF](https://hackerone.com/reports/100820) by vijay kumar
 - [Facebookmarketingdevelopers.com: Proxies, CSRF Quandry and API Fun](http://philippeharewood.com/facebookmarketingdevelopers-com-proxies-csrf-quandry-and-api-fun/) by phwd
 - [How i Hacked your Beats account ? Apple Bug Bounty](https://aadityapurani.com/2016/07/20/how-i-hacked-your-beats-account-apple-bug-bounty/) by @aaditya_purani
-- [FORM POST JSON ? JSON CSRF on POST Heartbeats API](https://hackerone.com/reports/245346) by Dr.Jones
 
 
 ### Remote Code Execution
@@ -263,7 +261,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Uber Bug Bounty: Gaining Access To An Internal Chat System](http://blog.mish.re/index.php/2017/09/06/uber-bug-bounty-gaining-access-to-an-internal-chat-system/) by mishre
 - [Flickr Oauth Misconfiguration](https://mishresec.wordpress.com/2017/10/12/yahoo-bug-bounty-exploiting-oauth-misconfiguration-to-takeover-flickr-accounts/) by mishre
 - [Slack SAML authentication bypass](http://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html) by Antonio Sanso
-- [Shopify admin authentication bypass using partners.shopify.com](https://hackerone.com/reports/270981) by uzsunny
+- [Shopify admin authentication bypass using partners.shopify.com]https://hackerone.com/reports/270981) by uzsunny
 
 ### HTTP Header Injection
 - [Twitter Overflow Trilogy in Twitter](https://blog.innerht.ml/overflow-trilogy/) by filedescriptor
