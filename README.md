@@ -130,7 +130,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Add tweet to collection CSRF](https://hackerone.com/reports/100820) by vijay kumar
 - [Facebookmarketingdevelopers.com: Proxies, CSRF Quandry and API Fun](http://philippeharewood.com/facebookmarketingdevelopers-com-proxies-csrf-quandry-and-api-fun/) by phwd
 - [How i Hacked your Beats account ? Apple Bug Bounty](https://aadityapurani.com/2016/07/20/how-i-hacked-your-beats-account-apple-bug-bounty/) by @aaditya_purani
-- [FORM POST JSON ? JSON CSRF on POST Heartbeats API](https://hackerone.com/reports/245346) by Dr.Jones
+- [FORM POST JSON: JSON CSRF on POST Heartbeats API](https://hackerone.com/reports/245346) by Dr.Jones
 
 
 ### Remote Code Execution
