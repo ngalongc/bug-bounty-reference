@@ -223,6 +223,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Classic IDOR endpoints in Twitter](http://www.anandpraka.sh/2017/05/how-i-took-control-of-your-twitter.html) 
 - [Mass Assignment, Response to Request Injection, Admin Escalation](https://seanmelia.wordpress.com/2017/06/01/privilege-escalation-in-a-django-application/) by sean
 - [Getting any Facebook user's friend list and partial payment card details](https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak)
+- [Manipulation of ETH balance](https://www.vicompany.nl/magazine/from-christmas-present-in-the-blockchain-to-massive-bug-bounty)
 
 
 ### XXE
