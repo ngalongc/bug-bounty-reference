@@ -26,6 +26,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Race Condition](#race-condition)
 - [Business Logic Flaw](#business-logic-flaw)
 - [Authentication Bypass](#authentication-bypass)
+- [Clickjacking](#clickjacking)
 - [HTTP Header Injection](#http-header-injection)
 - [Email Related](#email-related)
 - [Money Stealing](#money-stealing)
@@ -274,6 +275,18 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Flickr Oauth Misconfiguration](https://mishresec.wordpress.com/2017/10/12/yahoo-bug-bounty-exploiting-oauth-misconfiguration-to-takeover-flickr-accounts/) by mishre
 - [Slack SAML authentication bypass](http://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html) by Antonio Sanso
 - [Shopify admin authentication bypass using partners.shopify.com](https://hackerone.com/reports/270981) by uzsunny
+
+
+### Clickjacking
+- [OWASP clikcjacking](https://www.owasp.org/index.php/Clickjacking)
+- [Clickjacking explained in detail](https://www.pentestpartners.com/security-blog/clickjacking-explained-in-detail)
+- [Weaponizing Clickjacking Attack With Click Content Jacking](https://medium.com/@arbazhussain/weaponizing-clickjacking-attack-with-click-content-jacking-ab50cb6a37ed)
+- [How Clickjacking Attacks Work](https://zeltser.com/clickjacking-the-next-generation)
+
+  ## Clickjacking Reports
+  - [Clickjacking worth $5000](https://hackerone.com/reports/85624)
+  - [Clickjacking #289246](https://hackerone.com/reports/289246)
+  - [Clickjacking #299009](https://hackerone.com/reports/299009)
 
 ### HTTP Header Injection
 - [Twitter Overflow Trilogy in Twitter](https://blog.innerht.ml/overflow-trilogy/) by filedescriptor
