@@ -18,7 +18,7 @@ My intention is to make a full and complete list of common vulnerability that ar
   - [Deserialization](#deserialization)
   - [Image Tragick](#image-tragick)
 - [Cross-Site Request Forgery (CSRF)](#csrf)
-- [Insecure Direct Object Reference (IDOR)](#insecure-direct-object-reference-idor)
+- [Insecure Direct Object Reference (IDOR)](#direct-object-reference-idor)
 - [Stealing Access Token](#stealing-access-token)
   - [Google Oauth Login Bypass](#google-oauth-bypass)
 - [Server Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
@@ -36,7 +36,6 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Sleeping stored Google XSS Awakens a $5000 Bounty](https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/) by Patrik Fehrenbach
 - [RPO that lead to information leakage in Google](http://blog.innerht.ml/rpo-gadgets/) by filedescriptor
 - [God-like XSS, Log-in, Log-out, Log-in](https://whitton.io/articles/uber-turning-self-xss-into-good-xss/) in Uber by Jack Whitton 
-- [Three Stored XSS in Facebook](http://www.breaksec.com/?p=6129) by Nirgoldshlager 
 - [Using a Braun Shaver to Bypass XSS Audit and WAF](https://blog.bugcrowd.com/guest-blog-using-a-braun-shaver-to-bypass-xss-audit-and-waf-by-frans-rosen-detectify) by Frans Rosen  
 - [An XSS on Facebook via PNGs & Wonky Content Types](https://whitton.io/articles/xss-on-facebook-via-png-content-types/) by Jack Whitton
   - he is able to make stored XSS from a irrelevant domain to main facebook domain 
