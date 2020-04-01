@@ -35,8 +35,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 
 - [Sleeping stored Google XSS Awakens a $5000 Bounty](https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/) by Patrik Fehrenbach
 - [RPO that lead to information leakage in Google](http://blog.innerht.ml/rpo-gadgets/) by filedescriptor
-- [God-like XSS, Log-in, Log-out, Log-in](https://whitton.io/articles/uber-turning-self-xss-into-good-xss/) in Uber by Jack Whitton 
-- [Using a Braun Shaver to Bypass XSS Audit and WAF](https://blog.bugcrowd.com/guest-blog-using-a-braun-shaver-to-bypass-xss-audit-and-waf-by-frans-rosen-detectify) by Frans Rosen  
+- [God-like XSS, Log-in, Log-out, Log-in](https://whitton.io/articles/uber-turning-self-xss-into-good-xss/) in Uber by Jack Whitton   
 - [An XSS on Facebook via PNGs & Wonky Content Types](https://whitton.io/articles/xss-on-facebook-via-png-content-types/) by Jack Whitton
   - he is able to make stored XSS from a irrelevant domain to main facebook domain 
 - [Stored XSS in *.ebay.com](https://whitton.io/archive/persistent-xss-on-myworld-ebay-com/) by Jack Whitton
@@ -52,10 +51,8 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Best Google XSS again](https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter) - by Krzysztof Kotowicz
 - [IE & Edge URL parsin Problem](https://labs.detectify.com/2016/10/24/combining-host-header-injection-and-lax-host-parsing-serving-malicious-data/) - by detectify
 - [Google XSS subdomain Clickjacking](http://sasi2103.blogspot.sg/2016/09/combination-of-techniques-lead-to-dom.html)
-- [Microsoft XSS and Twitter XSS](http://blog.wesecureapp.com/xss-by-tossing-cookies/)
 - [Google Japan Book XSS](http://nootropic.me/blog/en/blog/2016/09/20/%E3%82%84%E3%81%AF%E3%82%8A%E3%83%8D%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%95%E3%82%A3%E3%83%B3%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%82%89%E3%81%9F%E3%81%BE%E3%81%9F%E3%81%BEgoogle/) 
 - [Flash XSS mega nz](https://labs.detectify.com/2013/02/14/how-i-got-the-bug-bounty-for-mega-co-nz-xss/) - by frans
-- [Flash XSS in multiple libraries](https://olivierbeg.com/finding-xss-vulnerabilities-in-flash-files/) - by Olivier Beg
 - [xss in google IE, Host Header Reflection](http://blog.bentkowski.info/2015/04/xss-via-host-header-cse.html)
 - [Years ago Google xss](http://conference.hitb.org/hitbsecconf2012ams/materials/D1T2%20-%20Itzhak%20Zuk%20Avraham%20and%20Nir%20Goldshlager%20-%20Killing%20a%20Bug%20Bounty%20Program%20-%20Twice.pdf)
 - [xss in google by IE weird behavior](http://blog.bentkowski.info/2015/04/xss-via-host-header-cse.html)
@@ -77,8 +74,6 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Pass uncoded URL in IE11 to cause XSS](https://hackerone.com/reports/150179)
 - [Twitter XSS by stopping redirection and javascript scheme](http://blog.blackfan.ru/2017/09/devtwittercom-xss.html) by Sergey Bobrov 
 - [Auth DOM Uber XSS](http://stamone-bug-bounty.blogspot.hk/2017/10/dom-xss-auth_14.html)
-- [Managed Apps and Music: two Google reflected XSSes](https://ysx.me.uk/managed-apps-and-music-a-tale-of-two-xsses-in-google-play/)
-- [App Maker and Colaboratory: two Google stored XSSes](https://ysx.me.uk/app-maker-and-colaboratory-a-stored-google-xss-double-bill/)
 - [XSS in www.yahoo.com](https://www.youtube.com/watch?v=d9UEVv3cJ0Q&feature=youtu.be) 
 - [Stored XSS, and SSRF in Google using the Dataset Publishing Language](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html)
 - [Stored XSS on Snapchat](https://medium.com/@mrityunjoy/stored-xss-on-snapchat-5d704131d8fd)
@@ -89,8 +84,6 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [How I Could Compromise 4% (Locked) Instagram Accounts](https://www.arneswinnen.net/2016/03/how-i-could-compromise-4-locked-instagram-accounts/) by Arne Swinnen
 - [Possibility to brute force invite codes in riders.uber.com](https://hackerone.com/reports/125505) by r0t
 - [Brute-Forcing invite codes in partners.uber.com](https://hackerone.com/reports/144616) by Efkan Gökbaş (mefkan)
-- [How I could have hacked all Facebook accounts](http://www.anandpraka.sh/2016/03/how-i-could-have-hacked-your-facebook.html) by Anand Prakash
-- [Facebook Account Take Over by using SMS verification code, not accessible by now, may get update from author later](http://arunsureshkumar.me/index.php/2016/04/24/facebook-account-take-over/) by Arun Sureshkumar
 
 ### SQL Injection
 - [SQL injection in Wordpress Plugin Huge IT Video Gallery in Uber](https://hackerone.com/reports/125932) by glc
@@ -162,10 +155,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [RCE in Disclosure](https://hackerone.com/reports/213558)
 - [Remote Code Execution by struct2 Yahoo Server](https://medium.com/@th3g3nt3l/how-i-got-5500-from-yahoo-for-rce-92fffb7145e6)
 - [Command Injection in Yahoo Acquisition](http://samcurry.net/how-i-couldve-taken-over-the-production-server-of-a-yahoo-acquisition-through-command-injection/)
-- [Paypal RCE](http://blog.pentestbegins.com/2017/07/21/hacking-into-paypal-server-remote-code-execution-2017/)
 - [$50k RCE in JetBrains IDE](http://blog.saynotolinux.com/blog/2016/08/15/jetbrains-ide-remote-code-execution-and-local-file-disclosure-vulnerability-analysis/)
-- [$20k RCE in Jenkin Instance](http://nahamsec.com/secure-your-jenkins-instance-or-hackers-will-force-you-to/) by @nahamsec
-- [Yahoo! RCE via Spring Engine SSTI](https://hawkinsecurity.com/2017/12/13/rce-via-spring-engine-ssti/)
 - [Telekom.de Remote Command Execution!](http://www.sec-down.com/wordpress/?p=581) by Ebrahim Hegazy
 - [Magento Remote Code Execution Vulnerability!](http://www.sec-down.com/wordpress/?p=578) by Ebrahim Hegazy
 - [Yahoo! Remote Command Execution Vulnerability](http://www.sec-down.com/wordpress/?p=87) by Ebrahim Hegazy
@@ -197,8 +187,6 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Microsoft-careers.com Remote Password Reset](http://yasserali.com/microsoft-careers-com-remote-password-reset/) by Yaaser Ali
 - [How I could change your eBay password](http://yasserali.com/how-i-could-change-your-ebay-password/) by Yaaser Ali
 - [Duo Security Researchers Uncover Bypass of PayPal’s Two-Factor Authentication](https://duo.com/blog/duo-security-researchers-uncover-bypass-of-paypal-s-two-factor-authentication) by Duo Labs
-- [Hacking Facebook.com/thanks Posting on behalf of your friends!
-](http://www.anandpraka.sh/2014/11/hacking-facebookcomthanks-posting-on.html) by Anand Prakash
 - [How I got access to millions of [redacted] accounts](https://bitquark.co.uk/blog/2016/02/09/how_i_got_access_to_millions_of_redacted_accounts)
 - [All Vimeo Private videos disclosure via Authorization Bypass with Excellent Technical Description](https://hackerone.com/reports/137502) by Enguerran Gillier (opnsec)
 - [Urgent: attacker can access every data source on Bime](https://hackerone.com/reports/149907) by Jobert Abma (jobert)
@@ -211,15 +199,12 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Leak of all project names and all user names , even across applications on Harvest](https://hackerone.com/reports/152696) by Edgar Boda-Majer (eboda)
 - [Changing paymentProfileUuid when booking a trip allows free rides at Uber](https://hackerone.com/reports/162809) by Matthew Temmy (temmyscript)
 - [View private tweet](https://hackerone.com/reports/174721)
-- [Uber Enum UUID](http://www.rohk.xyz/uber-uuid/)
-- [Hacking Facebook’s Legacy API, Part 1: Making Calls on Behalf of Any User](http://stephensclafani.com/2014/07/08/hacking-facebooks-legacy-api-part-1-making-calls-on-behalf-of-any-user/) by Stephen Sclafani
-- [Hacking Facebook’s Legacy API, Part 2: Stealing User Sessions](http://stephensclafani.com/2014/07/29/hacking-facebooks-legacy-api-part-2-stealing-user-sessions/) by Stephen Sclafani
+- ~~[Hacking Facebook’s Legacy API, Part 1: Making Calls on Behalf of Any User](http://stephensclafani.com/2014/07/08/hacking-facebooks-legacy-api-part-1-making-calls-on-behalf-of-any-user/) by Stephen Sclafani~~
+- ~~[Hacking Facebook’s Legacy API, Part 2: Stealing User Sessions](http://stephensclafani.com/2014/07/29/hacking-facebooks-legacy-api-part-2-stealing-user-sessions/) by Stephen Sclafani~~
 - [Delete FB Video](https://danmelamed.blogspot.hk/2017/01/facebook-vulnerability-delete-any-video.html)
 - [Delete FB Video](https://pranavhivarekar.in/2016/06/23/facebooks-bug-delete-any-video-from-facebook/)
-- [Facebook Page Takeover by Manipulating the Parameter](http://arunsureshkumar.me/index.php/2016/09/16/facebook-page-takeover-zero-day-vulnerability/) by arunsureshkumar
 - [Viewing private Airbnb Messages](http://buer.haus/2017/03/31/airbnb-web-to-app-phone-notification-idor-to-view-everyones-airbnb-messages/) 
 - [IDOR tweet as any user](http://kedrisec.com/twitter-publish-by-any-user/) by kedrisec
-- [Classic IDOR endpoints in Twitter](http://www.anandpraka.sh/2017/05/how-i-took-control-of-your-twitter.html) 
 - [Mass Assignment, Response to Request Injection, Admin Escalation](https://seanmelia.wordpress.com/2017/06/01/privilege-escalation-in-a-django-application/) by sean
 - [Getting any Facebook user's friend list and partial payment card details](https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak)
 - [Manipulation of ETH balance](https://www.vicompany.nl/magazine/from-christmas-present-in-the-blockchain-to-massive-bug-bounty)
@@ -230,7 +215,6 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Blind OOB XXE At UBER 26+ Domains Hacked](http://nerdint.blogspot.hk/2016/08/blind-oob-xxe-at-uber-26-domains-hacked.html) by Raghav Bisht
 - [XXE through SAML](https://seanmelia.files.wordpress.com/2016/01/out-of-band-xml-external-entity-injection-via-saml-redacted.pdf)
 - [XXE in Uber to read local files](https://httpsonly.blogspot.hk/2017/01/0day-writeup-xxe-in-ubercom.html)
-- [XXE by SVG in community.lithium.com](http://esoln.net/Research/2017/03/30/xxe-in-lithium-community-platform/)
 
 ### Unrestricted File Upload
 - [File Upload XSS in image uploading of App in mopub](https://hackerone.com/reports/97672) by vijay kumar 
@@ -257,9 +241,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 
 ### Business Logic Flaw
 - [How I Could Steal Money from Instagram, Google and Microsoft](https://www.arneswinnen.net/2016/07/how-i-could-steal-money-from-instagram-google-and-microsoft/) by Arne Swinnen
-- [How I could have removed all your Facebook notes](http://www.anandpraka.sh/2015/12/summary-this-blog-post-is-about.html)
 - [Facebook - bypass ads account's roles vulnerability 2015](http://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html) by POUYA DARABI
-- [Uber Ride for Free](http://www.anandpraka.sh/2017/03/how-anyone-could-have-used-uber-to-ride.html) by anand praka
 - [Uber Eat for Free](https://t.co/MCOM7j2dWX) by 
 
 ### Authentication Bypass
@@ -267,9 +249,7 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [2FA PayPal Bypass](https://henryhoggard.co.uk/blog/Paypal-2FA-Bypass) by henryhoggard
 - [SAML Bug in Github worth 15000](http://www.economyofmechanism.com/github-saml.html)  
 - [Authentication bypass on Airbnb via OAuth tokens theft](https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/)
-- [Uber Login CSRF + Open Redirect -> Account Takeover at Uber](http://ngailong.com/uber-login-csrf-open-redirect-account-takeover/)
 - [Administrative Panel Access](http://c0rni3sm.blogspot.hk/2017/08/accidentally-typo-to-bypass.html?m=1) by c0rni3sm
-- [Uber Bug Bounty: Gaining Access To An Internal Chat System](http://blog.mish.re/index.php/2017/09/06/uber-bug-bounty-gaining-access-to-an-internal-chat-system/) by mishre
 - [Flickr Oauth Misconfiguration](https://mishresec.wordpress.com/2017/10/12/yahoo-bug-bounty-exploiting-oauth-misconfiguration-to-takeover-flickr-accounts/) by mishre
 - [Slack SAML authentication bypass](http://blog.intothesymmetry.com/2017/10/slack-saml-authentication-bypass.html) by Antonio Sanso
 - [Shopify admin authentication bypass using partners.shopify.com](https://hackerone.com/reports/270981) by uzsunny
@@ -287,13 +267,6 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Slack Bug Journey](http://secalert.net/slack-security-bug-bounty.html) - by David Vieira-Kurz
 - [Subdomain takeover and chain it to perform authentication bypass](https://www.arneswinnen.net/2017/06/authentication-bypass-on-ubers-sso-via-subdomain-takeover/) by Arne Swinnen
 - [Hacker.One Subdomain Takeover](https://hackerone.com/reports/159156) - by geekboy
-
-### Author Write Up
-
-- [Payment Flaw in Yahoo](http://ngailong.com/abusing-multistage-logic-flaw-to-buy-anything-for-free-at-hk-deals-yahoo-com/)
-- [Bypassing Google Email Domain Check to Deliver Spam Email on Google’s Behalf](http://ngailong.com/bypassing-google-email-domain-check-to-deliver-spam-email-on-googles-behalf/)
-- [When Server Side Request Forgery combine with Cross Site Scripting](http://ngailong.com/what-could-happen-when-server-side-request-forgery-combine-with-cross-site-scripting/)
-
 
 ## XSSI
 
