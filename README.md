@@ -333,3 +333,4 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [SAML Bible](https://blog.netspi.com/attacking-sso-common-saml-vulnerabilities-ways-find/)
 - [Bypassing Google’s authentication to access their Internal Admin panels — Vishnu Prasad P G](https://medium.com/bugbountywriteup/bypassing-googles-fix-to-access-their-internal-admin-panels-12acd3d821e3)
 - [Smart Contract Vulnerabilities](http://www.dasp.co/)
+- [List of smart contract vulnerabilities](https://github.com/runtimeverification/verified-smart-contracts/wiki/List-of-Security-Vulnerabilities)
