@@ -28,6 +28,7 @@ My intention is to make a full and complete list of common vulnerability that ar
 - [Authentication Bypass](#authentication-bypass)
 - [HTTP Header Injection](#http-header-injection)
 - [Email Related](#email-related)
+- [Smart contract bugs](#smart-contract-bugs)
 - [Money Stealing](#money-stealing)
 - [Miscellaneous](#miscellaneous)
 
@@ -286,6 +287,10 @@ Credit Cards from Any Twitter Account](https://www.secgeek.net/twitter-vulnerabi
 - [Reading Uber’s Internal Emails [Uber Bug Bounty report worth $10,000]](http://blog.pentestnepal.tech/post/149985438982/reading-ubers-internal-emails-uber-bug-bounty)
 - [Slack Yammer Takeover by using TicketTrick](https://medium.com/@intideceukelaire/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c) by Inti De Ceukelaire
 - [How I could have mass uploaded from every Flickr account!](https://ret2got.wordpress.com/2017/10/05/how-i-could-have-mass-uploaded-from-every-flickr-account/)
+
+### Smart Contract bugs
+- [Critical Bug Identified in 88mph Awarded with $42,069 Bounty](https://iosiro.com/blog/88mph-bug-bounty-post-mortem)
+- [Belt Finance Logic Error Bug Fix Postmortem](https://medium.com/immunefi/belt-finance-logic-error-bug-fix-postmortem-39308a158291)
 
 ## Money Stealing
 
