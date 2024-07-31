@@ -120,6 +120,11 @@ My intention is to make a full and complete list of common vulnerability that ar
 
 - [Bypassing Google Authentication on Periscope's Administration Panel](https://whitton.io/articles/bypassing-google-authentication-on-periscopes-admin-panel/) By Jack Whitton
 
+
+#### Clickjacking
+
+- [Play a game, get Subscribed to my channel - YouTube Clickjacking Bug | #GoogleVRP](https://infosecwriteups.com/play-a-game-get-subscribed-to-my-channel-youtube-clickjacking-bug-googlevrp-6ce1d15542d3?source=your_stories_page-------------------------------------) By Sriram
+
 ### CSRF
 
 - [Messenger.com CSRF that show you the steps when you check for CSRF](https://whitton.io/articles/messenger-site-wide-csrf/) by Jack Whitton 
